@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/email/175448.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="email" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="175448.txt" break_level="NO_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Sun" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text="Apr" break_level="SPACE_BREAK"/>
+  <word text="2001" break_level="SPACE_BREAK"/>
+  <word text="13:00:00" break_level="SPACE_BREAK"/>
+  <word text="-0700" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="PDT" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="steven.kean@enron.com" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="maureen.mcvicker@enron.com" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="&gt;" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="March" break_level="SPACE_BREAK"/>
+  <word text="2001" break_level="SPACE_BREAK"/>
+  <word text="AMEX" break_level="SPACE_BREAK"/>
+  <word text="Mime" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Version" lemma="version" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303957.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="1.0" break_level="SPACE_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Type" lemma="type" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301323.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="text" lemma="text" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298051.001" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="plain" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="charset" break_level="SPACE_BREAK"/>
+  <word text="=" break_level="NO_BREAK"/>
+  <word text="us" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="ascii" break_level="NO_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Transfer" lemma="transfer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299918.010" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Encoding" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="7bit" break_level="SPACE_BREAK"/>
+  <word text="X-From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Steven" break_level="SENTENCE_BREAK"/>
+  <word text="J" break_level="SPACE_BREAK"/>
+  <word text="Kean" break_level="SPACE_BREAK"/>
+  <word text="X-To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Maureen" break_level="SENTENCE_BREAK"/>
+  <word text="McVicker" break_level="SPACE_BREAK"/>
+  <word text="X-cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="X-bcc" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="X-Folder" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="\" break_level="SPACE_BREAK"/>
+  <word text="Steven_Kean_June2001_1" break_level="NO_BREAK"/>
+  <word text="\" break_level="NO_BREAK"/>
+  <word text="Notes" break_level="NO_BREAK"/>
+  <word text="Folders" break_level="SPACE_BREAK"/>
+  <word text="\" break_level="NO_BREAK"/>
+  <word text="All" break_level="NO_BREAK"/>
+  <word text="documents" break_level="SPACE_BREAK"/>
+  <word text="X-Origin" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="KEAN" break_level="SENTENCE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="S" break_level="NO_BREAK"/>
+  <word text="X-FileName" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="skean.nsf" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="PARAGRAPH_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Forwarded" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="Steven" break_level="SPACE_BREAK"/>
+  <word text="J" break_level="SPACE_BREAK"/>
+  <word text="Kean" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="NA" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="Enron" break_level="NO_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/15/2001" break_level="SPACE_BREAK"/>
+  <word text="07:59" break_level="LINE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="eserver@enron.com" break_level="PARAGRAPH_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/09/2001" break_level="SPACE_BREAK"/>
+  <word text="02:41:04" break_level="SPACE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Steven.J.Kean@enron.com" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="&gt;" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="March" break_level="SPACE_BREAK"/>
+  <word text="2001" break_level="SPACE_BREAK"/>
+  <word text="AMEX" break_level="SPACE_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="ready" lemma="ready" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283265.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="approval" lemma="approval" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222568.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Employee" break_level="PARAGRAPH_BREAK"/>
+  <word text="Name" lemma="name" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270390.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Mark" break_level="SENTENCE_BREAK"/>
+  <word text="A." break_level="SPACE_BREAK"/>
+  <word text="Palmer" break_level="SPACE_BREAK"/>
+  <word text="Status" lemma="status" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294036.004" break_level="LINE_BREAK"/>
+  <word text="last" lemma="last" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.010" break_level="SPACE_BREAK"/>
+  <word text="changed" lemma="change" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Automated" break_level="SENTENCE_BREAK"/>
+  <word text="Administrator" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="Report" break_level="SPACE_BREAK"/>
+  <word text="Name" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="March" break_level="SENTENCE_BREAK"/>
+  <word text="2001" break_level="SPACE_BREAK"/>
+  <word text="AMEX" break_level="SPACE_BREAK"/>
+  <word text="Report" break_level="LINE_BREAK"/>
+  <word text="Total" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="6,539.82" break_level="NO_BREAK"/>
+  <word text="Amount" break_level="LINE_BREAK"/>
+  <word text="Due" break_level="SPACE_BREAK"/>
+  <word text="Employee" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="6,539.82" break_level="NO_BREAK"/>
+  <word text="To" break_level="PARAGRAPH_BREAK"/>
+  <word text="approve" lemma="approve" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222569.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="click" lemma="click" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233681.004" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="link" lemma="link" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263659.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="Concur" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="http://xms.enron.com" break_level="SENTENCE_BREAK"/>
+  <word text="--" break_level="PARAGRAPH_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Forwarded" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="Steven" break_level="SPACE_BREAK"/>
+  <word text="J" break_level="SPACE_BREAK"/>
+  <word text="Kean" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="NA" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="Enron" break_level="NO_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/15/2001" break_level="SPACE_BREAK"/>
+  <word text="07:59" break_level="LINE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="eserver@enron.com" break_level="PARAGRAPH_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/10/2001" break_level="SPACE_BREAK"/>
+  <word text="01:45:03" break_level="SPACE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Steven.J.Kean@enron.com" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="&gt;" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="General" lemma="general" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250413.001" break_level="SPACE_BREAK"/>
+  <word text="Expenses" break_level="SPACE_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="ready" lemma="ready" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283265.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="approval" lemma="approval" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222568.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Employee" break_level="PARAGRAPH_BREAK"/>
+  <word text="Name" lemma="name" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270390.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="John" break_level="SENTENCE_BREAK"/>
+  <word text="Hardy" break_level="SPACE_BREAK"/>
+  <word text="Jr" break_level="SPACE_BREAK"/>
+  <word text="Jr." break_level="SPACE_BREAK"/>
+  <word text="Status" lemma="status" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294036.004" break_level="LINE_BREAK"/>
+  <word text="last" lemma="last" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.010" break_level="SPACE_BREAK"/>
+  <word text="changed" lemma="change" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Automated" break_level="SENTENCE_BREAK"/>
+  <word text="Administrator" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="Report" break_level="SPACE_BREAK"/>
+  <word text="Name" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="General" lemma="general" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250413.001" break_level="SENTENCE_BREAK"/>
+  <word text="Expenses" break_level="SPACE_BREAK"/>
+  <word text="Report" break_level="LINE_BREAK"/>
+  <word text="Total" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="2,240.10" break_level="NO_BREAK"/>
+  <word text="Amount" break_level="LINE_BREAK"/>
+  <word text="Due" break_level="SPACE_BREAK"/>
+  <word text="Employee" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="2,240.10" break_level="NO_BREAK"/>
+  <word text="To" break_level="PARAGRAPH_BREAK"/>
+  <word text="approve" lemma="approve" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222569.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="click" lemma="click" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233681.004" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="link" lemma="link" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263659.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="Concur" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="http://xms.enron.com" break_level="SENTENCE_BREAK"/>
+  <word text="--" break_level="PARAGRAPH_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Forwarded" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="Steven" break_level="SPACE_BREAK"/>
+  <word text="J" break_level="SPACE_BREAK"/>
+  <word text="Kean" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="NA" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="Enron" break_level="NO_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/15/2001" break_level="SPACE_BREAK"/>
+  <word text="07:59" break_level="LINE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="eserver@enron.com" break_level="PARAGRAPH_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="04/13/2001" break_level="SPACE_BREAK"/>
+  <word text="02:35:43" break_level="SPACE_BREAK"/>
+  <word text="PM" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Steven.J.Kean@enron.com" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="&gt;" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="JS3" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="31/01" break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="ready" lemma="ready" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283265.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="approval" lemma="approval" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222568.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Employee" break_level="PARAGRAPH_BREAK"/>
+  <word text="Name" lemma="name" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270390.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="James" break_level="SENTENCE_BREAK"/>
+  <word text="Steffes" break_level="SPACE_BREAK"/>
+  <word text="Status" lemma="status" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294036.004" break_level="LINE_BREAK"/>
+  <word text="last" break_level="SPACE_BREAK"/>
+  <word text="changed" lemma="change" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Automated" break_level="SENTENCE_BREAK"/>
+  <word text="Administrator" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="Report" break_level="SPACE_BREAK"/>
+  <word text="Name" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="JS3" break_level="SENTENCE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="31/01" break_level="NO_BREAK"/>
+  <word text="Report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="LINE_BREAK"/>
+  <word text="Total" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="2,796.30" break_level="NO_BREAK"/>
+  <word text="Amount" break_level="LINE_BREAK"/>
+  <word text="Due" break_level="SPACE_BREAK"/>
+  <word text="Employee" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="2,796.30" break_level="NO_BREAK"/>
+  <word text="To" break_level="PARAGRAPH_BREAK"/>
+  <word text="approve" lemma="approve" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222569.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="expense" break_level="SPACE_BREAK"/>
+  <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="click" lemma="click" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233681.004" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="following" lemma="following" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248196.004" break_level="SPACE_BREAK"/>
+  <word text="link" lemma="link" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263659.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="Concur" break_level="SPACE_BREAK"/>
+  <word text="Expense" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="http://xms.enron.com" break_level="SENTENCE_BREAK"/>
+</SimpleWsdDoc>

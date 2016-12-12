@@ -1,0 +1,2444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="br-j07">
+  <word text="The" break_level="NO_BREAK"/>
+  <word text="Poynting-Robertson" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Robertson" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1937" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="Wyatt" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Whipple" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1950" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="retardation" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="orbital" break_level="SPACE_BREAK"/>
+  <word text="motion" lemma="motion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269419.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="relativistic" lemma="relativistic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284071.001" break_level="SPACE_BREAK"/>
+  <word text="aberration" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="repulsive" break_level="SPACE_BREAK"/>
+  <word text="force" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="impinging" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="radiation" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="causes" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="spiral" lemma="spiral" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293201.011" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="times" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.021" break_level="SPACE_BREAK"/>
+  <word text="much" break_level="SPACE_BREAK"/>
+  <word text="shorter" lemma="short" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290194.007" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="age" lemma="age" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220381.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="radial" lemma="radial" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282679.005" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="varies" break_level="SPACE_BREAK"/>
+  <word text="inversely" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="1000" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="|" break_level="SPACE_BREAK"/>
+  <word text="m" lemma="meter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267481.001" break_level="SPACE_BREAK"/>
+  <word text="diameter" lemma="diameter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240090.001" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="near" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="orbit" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="Mars" lemma="Mars" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266222.002" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="reach" lemma="reach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283234.007" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="60" break_level="SPACE_BREAK"/>
+  <word text="million" break_level="SPACE_BREAK"/>
+  <word text="years" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Whipple" break_level="SENTENCE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1955" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="extends" lemma="extend" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245717.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="effects" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="include" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.002" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="corpuscular" break_level="SPACE_BREAK"/>
+  <word text="radiation" break_level="SPACE_BREAK"/>
+  <word text="pressure" lemma="pressure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280534.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="increases" break_level="SPACE_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="minimum" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="drag" lemma="drag" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241922.019" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Further" lemma="further" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249623.006" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="corpuscular" break_level="SPACE_BREAK"/>
+  <word text="radiation" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="i.e." break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="wind" break_level="SPACE_BREAK"/>
+  <word text="protons" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="must" break_level="SPACE_BREAK"/>
+  <word text="sputter" lemma="sputter" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293543.005" break_level="SPACE_BREAK"/>
+  <word text="away" lemma="away" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224068.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="surface" lemma="surface" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296000.001" break_level="SPACE_BREAK"/>
+  <word text="atoms" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="cause" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="slow" lemma="slow" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291499.001" break_level="SPACE_BREAK"/>
+  <word text="diminution" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="resultant" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Poynting-Robertson" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="ratio" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="repulsive" break_level="SPACE_BREAK"/>
+  <word text="force" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="gravitational" break_level="SPACE_BREAK"/>
+  <word text="force" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="Poynting-Robertson" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="causes" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="semi" break_level="SPACE_BREAK"/>
+  <word text="major" break_level="SPACE_BREAK"/>
+  <word text="axis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="diminish" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="rapidly" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="semi-minor" break_level="SPACE_BREAK"/>
+  <word text="axis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="consequent" break_level="SPACE_BREAK"/>
+  <word text="tendency" break_level="SPACE_BREAK"/>
+  <word text="toward" break_level="SPACE_BREAK"/>
+  <word text="circular" lemma="circular" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233313.001" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="move" lemma="move" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269570.001" break_level="SPACE_BREAK"/>
+  <word text="toward" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Also" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="planetary" break_level="SPACE_BREAK"/>
+  <word text="gravitational" break_level="SPACE_BREAK"/>
+  <word text="attraction" break_level="SPACE_BREAK"/>
+  <word text="increases" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="concentration" lemma="concentration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235095.005" break_level="SPACE_BREAK"/>
+  <word text="near" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="plane" lemma="plane" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1278560.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="ecliptic" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="approached" lemma="approach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222560.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="At" break_level="SENTENCE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="astronomical" break_level="SPACE_BREAK"/>
+  <word text="unit" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="distance" lemma="distance" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241025.001" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="probably" break_level="SPACE_BREAK"/>
+  <word text="nearly" lemma="nearly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270760.001" break_level="SPACE_BREAK"/>
+  <word text="circular" lemma="circular" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233313.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="If" break_level="SENTENCE_BREAK"/>
+  <word text="such" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="case" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="within" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="distance" lemma="distance" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241025.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="km" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="will" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="relative" lemma="relative" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284065.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="kinetic" break_level="SPACE_BREAK"/>
+  <word text="energy" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="their" break_level="SPACE_BREAK"/>
+  <word text="potential" break_level="SPACE_BREAK"/>
+  <word text="energy" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="they" break_level="SPACE_BREAK"/>
+  <word text="will" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="captured" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="De" break_level="SENTENCE_BREAK"/>
+  <word text="Jager" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1955" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="calculated" lemma="calculate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230110.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="times" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.021" break_level="SPACE_BREAK"/>
+  <word text="required" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="reach" lemma="reach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283234.007" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="atmosphere" lemma="atmosphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223600.001" break_level="SPACE_BREAK"/>
+  <word text="under" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="influence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Poynting-Robertson" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="case" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.001" break_level="SPACE_BREAK"/>
+  <word text="causes" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="become" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="eccentric" lemma="eccentric" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242973.002" break_level="SPACE_BREAK"/>
+  <word text="without" break_level="SPACE_BREAK"/>
+  <word text="changing" lemma="change" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="semi" break_level="SPACE_BREAK"/>
+  <word text="major" break_level="SPACE_BREAK"/>
+  <word text="axis" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="This" break_level="SENTENCE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="can" break_level="SPACE_BREAK"/>
+  <word text="give" break_level="SPACE_BREAK"/>
+  <word text="rise" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="blanket" lemma="blanket" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227019.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="micrometeorites" break_level="SPACE_BREAK"/>
+  <word text="around" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Since" break_level="PARAGRAPH_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="continual" break_level="SPACE_BREAK"/>
+  <word text="loss" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="micrometeoritic" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="space" lemma="space" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292678.012" break_level="SPACE_BREAK"/>
+  <word text="because" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="radiation" lemma="radiation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282687.001" break_level="SPACE_BREAK"/>
+  <word text="effects" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="must" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.016" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="continual" break_level="SPACE_BREAK"/>
+  <word text="replenishment" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="SPACE_BREAK"/>
+  <word text="otherwise" lemma="otherwise" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274203.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="micrometeorites" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="disappeared" lemma="disappear" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240649.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="interplanetary" break_level="SPACE_BREAK"/>
+  <word text="space" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="There" break_level="SENTENCE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="several" break_level="SPACE_BREAK"/>
+  <word text="possible" break_level="SPACE_BREAK"/>
+  <word text="sources" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="According" break_level="SENTENCE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="Whipple" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1955" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="cometary" break_level="SPACE_BREAK"/>
+  <word text="debris" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="sufficient" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="replenish" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="spiraling" lemma="spiral" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293201.011" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="maintaining" lemma="maintain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265437.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="fairly" lemma="fairly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246043.002" break_level="SPACE_BREAK"/>
+  <word text="steady" lemma="steady" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294083.004" break_level="SPACE_BREAK"/>
+  <word text="state" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Asteroidal" break_level="SENTENCE_BREAK"/>
+  <word text="collisions" lemma="collision" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234483.001" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="thought" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="contribute" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="It" break_level="SENTENCE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="possible" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="vicinity" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="originated" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="impacts" break_level="SPACE_BREAK"/>
+  <word text="upon" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="moon" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="One" break_level="PARAGRAPH_BREAK"/>
+  <word text="cannot" break_level="SPACE_BREAK"/>
+  <word text="make" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="satisfactory" break_level="SPACE_BREAK"/>
+  <word text="guess" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="space" lemma="space" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292678.012" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Even" break_level="SENTENCE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="neighborhood" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="where" break_level="SPACE_BREAK"/>
+  <word text="information" break_level="SPACE_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="directly" lemma="directly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240581.004" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="indirectly" lemma="indirectly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1420740.002" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="values" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="vary" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="least" break_level="SPACE_BREAK"/>
+  <word text="four" break_level="SPACE_BREAK"/>
+  <word text="orders" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="This" break_level="SENTENCE_BREAK"/>
+  <word text="large" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="discrepancy" break_level="SPACE_BREAK"/>
+  <word text="demonstrates" lemma="demonstrate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239358.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="inadequacies" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="experimental" break_level="SPACE_BREAK"/>
+  <word text="methods" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="lack" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="understanding" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="various" break_level="SPACE_BREAK"/>
+  <word text="phenomena" lemma="phenomenon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277476.001" break_level="SPACE_BREAK"/>
+  <word text="involved" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Beyond" break_level="SENTENCE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="few" break_level="SPACE_BREAK"/>
+  <word text="million" break_level="SPACE_BREAK"/>
+  <word text="kilometers" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="but" break_level="SPACE_BREAK"/>
+  <word text="still" lemma="still" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294414.009" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="region" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="orbit" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="prediction" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="even" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="unreliable" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="At" break_level="SENTENCE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="distances" lemma="distance" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241025.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="situation" lemma="situation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291020.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="still" lemma="still" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294414.009" break_level="SPACE_BREAK"/>
+  <word text="less" lemma="less" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263053.004" break_level="SPACE_BREAK"/>
+  <word text="certain" lemma="certain" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231804.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="There" break_level="PARAGRAPH_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="several" break_level="SPACE_BREAK"/>
+  <word text="sources" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="environment" lemma="environment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244401.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Direct" break_level="SENTENCE_BREAK"/>
+  <word text="information" break_level="SPACE_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="rockets" lemma="rocket" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285512.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="satellites" lemma="satellite" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287329.001" break_level="SPACE_BREAK"/>
+  <word text="equipped" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="addition" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="visual" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="radar" break_level="SPACE_BREAK"/>
+  <word text="observations" lemma="observation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272703.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="meteors" break_level="SPACE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="extrapolated" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="domain" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="From" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="brightness" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="F" break_level="SPACE_BREAK"/>
+  <word text="component" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="corona" lemma="corona" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236149.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="brightness" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="zodiacal" break_level="SPACE_BREAK"/>
+  <word text="light" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="estimate" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="sizes" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="concentrations" lemma="concentration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235095.005" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="spatial" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="can" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="regions" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="space" lemma="space" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292678.012" break_level="SPACE_BREAK"/>
+  <word text="near" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="ecliptic" break_level="SPACE_BREAK"/>
+  <word text="plane" lemma="plane" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1278560.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Another" break_level="SENTENCE_BREAK"/>
+  <word text="important" break_level="SPACE_BREAK"/>
+  <word text="source" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
+  <word text="recently" break_level="SPACE_BREAK"/>
+  <word text="receiving" lemma="receive" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283407.001" break_level="SPACE_BREAK"/>
+  <word text="much" break_level="SPACE_BREAK"/>
+  <word text="attention" lemma="attention" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223673.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="atmospheric" lemma="atmospheric" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223601.001" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="component" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="cores" lemma="core" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236037.002" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="deep" lemma="deep" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238936.001" break_level="SPACE_BREAK"/>
+  <word text="sea" break_level="SPACE_BREAK"/>
+  <word text="sediments" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="collectors" lemma="collector" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234445.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="remote" lemma="remote" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284185.002" break_level="SPACE_BREAK"/>
+  <word text="regions" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="valuable" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="category" lemma="category" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231320.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="provide" lemma="provide" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281380.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="measure" lemma="measure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.022" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="total" lemma="total" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299553.001" break_level="SPACE_BREAK"/>
+  <word text="mass" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="cosmic" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="incident" lemma="incident" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257505.007" break_level="SPACE_BREAK"/>
+  <word text="upon" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="direct" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="environment" lemma="environment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244401.001" break_level="SPACE_BREAK"/>
+  <word text="near" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="piezoelectric" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="essentially" break_level="SPACE_BREAK"/>
+  <word text="microphones" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="wire" break_level="SPACE_BREAK"/>
+  <word text="gages" lemma="gauge" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250236.001" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="instruments" lemma="instrument" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258409.004" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="installed" lemma="install" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258372.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="rockets" lemma="rocket" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285512.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="satellites" lemma="satellite" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287329.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="space" break_level="SPACE_BREAK"/>
+  <word text="probes" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Statistically" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="most" lemma="most" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269360.005" break_level="SPACE_BREAK"/>
+  <word text="significant" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="collected" lemma="collect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234429.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Alpha" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Explorer" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Delta" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Sputnik" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="1959" break_level="SPACE_BREAK"/>
+  <word text="Eta" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Vanguard" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="These" break_level="SENTENCE_BREAK"/>
+  <word text="vehicles" lemma="vehicle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303717.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="large" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="sensitive" lemma="sensitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289085.001" break_level="SPACE_BREAK"/>
+  <word text="areas" lemma="area" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222816.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="collected" lemma="collect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234429.001" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="long" break_level="SPACE_BREAK"/>
+  <word text="enough" break_level="SPACE_BREAK"/>
+  <word text="times" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.021" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="give" break_level="SPACE_BREAK"/>
+  <word text="reliable" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="rates" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="periods" lemma="period" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276979.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="exposure" lemma="exposure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245681.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Many" break_level="SENTENCE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="vehicles" lemma="vehicle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303717.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="smaller" break_level="SPACE_BREAK"/>
+  <word text="sensitive" lemma="sensitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289085.001" break_level="SPACE_BREAK"/>
+  <word text="area" lemma="area" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222816.001" break_level="SPACE_BREAK"/>
+  <word text="exposure" lemma="exposure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245681.001" break_level="SPACE_BREAK"/>
+  <word text="time" break_level="SPACE_BREAK"/>
+  <word text="products" lemma="product" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280957.001" break_level="SPACE_BREAK"/>
+  <word text="contribute" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="information" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Alpha" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="153" break_level="SPACE_BREAK"/>
+  <word text="events" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Dubin" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="was" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="detector" break_level="SPACE_BREAK"/>
+  <word text="calibration" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="assumed" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="show" lemma="show" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290298.015" break_level="SPACE_BREAK"/>
+  <word text="daily" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="diurnal" break_level="SPACE_BREAK"/>
+  <word text="variations" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Ninety" break_level="SENTENCE_BREAK"/>
+  <word text="per" break_level="SPACE_BREAK"/>
+  <word text="cent" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="153" break_level="SPACE_BREAK"/>
+  <word text="recorded" lemma="record" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283496.009" break_level="SPACE_BREAK"/>
+  <word text="impacts" break_level="SPACE_BREAK"/>
+  <word text="occurred" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="SPACE_BREAK"/>
+  <word text="midnight" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="noon" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="variation" lemma="variation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303565.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="much" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="order" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="One" break_level="SENTENCE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="conclude" lemma="conclude" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235148.004" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="most" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="detected" break_level="SPACE_BREAK"/>
+  <word text="micrometeoritic" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="concentrated" lemma="concentrated" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235094.003" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="orbital" break_level="SPACE_BREAK"/>
+  <word text="streams" lemma="stream" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294884.016" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="intersect" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="orbit" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="There" break_level="PARAGRAPH_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="contradictory" break_level="SPACE_BREAK"/>
+  <word text="reports" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Delta" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="quoted" lemma="quote" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282573.001" break_level="SPACE_BREAK"/>
+  <word text="here" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="believed" lemma="believe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225789.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="reliable" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="On" break_level="SENTENCE_BREAK"/>
+  <word text="May" break_level="SPACE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="large" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="occurred" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="next" break_level="SPACE_BREAK"/>
+  <word text="two" break_level="SPACE_BREAK"/>
+  <word text="days" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="next" break_level="SPACE_BREAK"/>
+  <word text="nine" break_level="SPACE_BREAK"/>
+  <word text="days" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Nazarova" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="first" lemma="first" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247284.001" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="indicate" lemma="indicate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257731.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="meteor" break_level="SPACE_BREAK"/>
+  <word text="stream" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="high" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="concentration" lemma="concentration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235095.005" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="led" lemma="lead" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262579.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="high" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="estimates" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Preliminary" break_level="PARAGRAPH_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="1959" break_level="SPACE_BREAK"/>
+  <word text="Eta" break_level="SPACE_BREAK"/>
+  <word text="give" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.015" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="average" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="masses" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="larger" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="1000" break_level="SPACE_BREAK"/>
+  <word text="events" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="22" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="period" lemma="period" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276979.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="LaGow" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Alexander" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="day-to-day" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="varied" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="factor" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.003" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="4.5" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="not" break_level="SPACE_BREAK"/>
+  <word text="yet" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="analyzed" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="diurnal" break_level="SPACE_BREAK"/>
+  <word text="variations" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Note" lemma="note" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272172.013" break_level="SENTENCE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="four" break_level="SPACE_BREAK"/>
+  <word text="times" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Alpha" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="fifth" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="large" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="If" break_level="SENTENCE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="assumes" lemma="assume" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223415.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="average" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="did" break_level="SPACE_BREAK"/>
+  <word text="not" break_level="SPACE_BREAK"/>
+  <word text="change" lemma="change" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.001" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="SPACE_BREAK"/>
+  <word text="measurements" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="curve" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="relates" lemma="relate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284058.002" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="larger" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="given" lemma="given" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250954.002" break_level="SPACE_BREAK"/>
+  <word text="radius" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="inverse" break_level="SPACE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="power" lemma="power" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280001.022" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="radius" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Space" break_level="PARAGRAPH_BREAK"/>
+  <word text="probes" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="yielded" lemma="yield" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307694.001" break_level="SPACE_BREAK"/>
+  <word text="little" break_level="SPACE_BREAK"/>
+  <word text="information" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Pioneer" break_level="SENTENCE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="recorded" lemma="record" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283496.009" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="decrease" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="distance" lemma="distance" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241025.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="basis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="11" break_level="SPACE_BREAK"/>
+  <word text="counts" lemma="count" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236458.014" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="9" break_level="SPACE_BREAK"/>
+  <word text="hours" lemma="hour" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255958.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="With" break_level="SENTENCE_BREAK"/>
+  <word text="detectors" break_level="SPACE_BREAK"/>
+  <word text="sensitive" lemma="sensitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289085.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="three" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="intervals" lemma="interval" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258750.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="based" lemma="base" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225073.025" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="few" break_level="SPACE_BREAK"/>
+  <word text="counts" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="second" lemma="second" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288373.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="third" break_level="SPACE_BREAK"/>
+  <word text="Russian" break_level="SPACE_BREAK"/>
+  <word text="space" break_level="SPACE_BREAK"/>
+  <word text="probes" break_level="SPACE_BREAK"/>
+  <word text="indicate" lemma="indicate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257731.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="smallest" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="detected" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="larger" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="ones" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SENTENCE_BREAK"/>
+  <word text="based" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="so" lemma="so" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291940.001" break_level="SPACE_BREAK"/>
+  <word text="few" break_level="SPACE_BREAK"/>
+  <word text="events" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="dubious" lemma="dubious" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242330.002" break_level="SPACE_BREAK"/>
+  <word text="validity" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="calibration" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="piezoelectric" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="terms" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="parameters" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="uncertain" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Many" break_level="SENTENCE_BREAK"/>
+  <word text="workers" lemma="worker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307064.001" break_level="SPACE_BREAK"/>
+  <word text="believe" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="response" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="proportional" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="incident" lemma="incident" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257505.009" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="relation" lemma="relation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284061.001" break_level="SPACE_BREAK"/>
+  <word text="deduced" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="laboratory" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="linearly" break_level="SPACE_BREAK"/>
+  <word text="extrapolated" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="velocities" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="However" lemma="however" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256065.001" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="must" break_level="SPACE_BREAK"/>
+  <word text="expect" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="vaporization" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="ejection" lemma="ejection" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1417240.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="hypervelocity" break_level="SPACE_BREAK"/>
+  <word text="impacts" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="cause" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="deviation" lemma="deviation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239911.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="linear" lemma="linear" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263596.001" break_level="SPACE_BREAK"/>
+  <word text="relationship" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="United" break_level="SPACE_BREAK"/>
+  <word text="States" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="most" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="calibrated" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="dropping" lemma="drop" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242150.001" break_level="SPACE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="spheres" lemma="sphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293068.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="their" break_level="SPACE_BREAK"/>
+  <word text="sensitive" lemma="sensitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289085.001" break_level="SPACE_BREAK"/>
+  <word text="surfaces" lemma="surface" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296000.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="Russian" break_level="SPACE_BREAK"/>
+  <word text="experimenters" break_level="SPACE_BREAK"/>
+  <word text="claim" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="fraction" lemma="fraction" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248768.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="impulse" lemma="impulse" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257415.005" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sensors" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="caused" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="incident" lemma="incident" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257505.009" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="remainder" lemma="remainder" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284130.001" break_level="SPACE_BREAK"/>
+  <word text="being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="ejected" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sensor" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="This" break_level="SENTENCE_BREAK"/>
+  <word text="&quot;" break_level="SPACE_BREAK"/>
+  <word text="ejection" lemma="ejection" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1417240.001" break_level="NO_BREAK"/>
+  <word text="&quot;" break_level="NO_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="linearly" break_level="SPACE_BREAK"/>
+  <word text="related" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="energy" lemma="energy" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244127.006" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="They" break_level="SENTENCE_BREAK"/>
+  <word text="quote" lemma="quote" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282573.001" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="same" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="U.S." break_level="SPACE_BREAK"/>
+  <word text="apparatus" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="but" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="40" break_level="SPACE_BREAK"/>
+  <word text="times" break_level="SPACE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="There" break_level="SENTENCE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="difference" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="experimental" break_level="SPACE_BREAK"/>
+  <word text="arrangement" lemma="arrangement" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223025.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="U.S." break_level="SPACE_BREAK"/>
+  <word text="microphones" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="attached" lemma="attach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223653.001" break_level="SPACE_BREAK"/>
+  <word text="directly" lemma="directly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240581.004" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="vehicle" lemma="vehicle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303717.001" break_level="SPACE_BREAK"/>
+  <word text="skin" lemma="skin" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291152.004" break_level="SPACE_BREAK"/>
+  <word text="while" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Russian" break_level="SPACE_BREAK"/>
+  <word text="instruments" lemma="instrument" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258409.001" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="isolated" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="skin" lemma="skin" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291152.004" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="assumption" lemma="assumption" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223417.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="mean" lemma="mean" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266765.001" break_level="SPACE_BREAK"/>
+  <word text="impact" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="U.S." break_level="SPACE_BREAK"/>
+  <word text="work" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="U.S.S.R." break_level="SPACE_BREAK"/>
+  <word text="work" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="threshold" lemma="threshold" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298561.004" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="corresponds" lemma="correspond" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236222.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="10" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="|" break_level="SPACE_BREAK"/>
+  <word text="m" lemma="meter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267481.001" break_level="SPACE_BREAK"/>
+  <word text="diameter" lemma="diameter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240090.001" break_level="SPACE_BREAK"/>
+  <word text="sphere" lemma="sphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293068.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="density" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="However" lemma="however" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256065.001" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="conversion" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="unreliable" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="since" break_level="SPACE_BREAK"/>
+  <word text="many" break_level="SPACE_BREAK"/>
+  <word text="photographic" break_level="SPACE_BREAK"/>
+  <word text="meteors" break_level="SPACE_BREAK"/>
+  <word text="give" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="fluffy" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="loosely" break_level="SPACE_BREAK"/>
+  <word text="bound" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="structure" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="densities" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="low" lemma="low" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264526.010" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="To" break_level="SENTENCE_BREAK"/>
+  <word text="what" break_level="SPACE_BREAK"/>
+  <word text="extent" break_level="SPACE_BREAK"/>
+  <word text="such" break_level="SPACE_BREAK"/>
+  <word text="low" break_level="SPACE_BREAK"/>
+  <word text="density" break_level="SPACE_BREAK"/>
+  <word text="applies" lemma="apply" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222532.003" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="micrometeorites" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="unknown" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="value" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="used" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="open" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="question" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="substantial" lemma="substantial" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295386.001" break_level="SPACE_BREAK"/>
+  <word text="fraction" lemma="fraction" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248768.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="orbiting" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="third" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="above" break_level="SPACE_BREAK"/>
+  <word text="mentioned" break_level="SPACE_BREAK"/>
+  <word text="average" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="should" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="used" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="deriving" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Zodiacal" break_level="SENTENCE_BREAK"/>
+  <word text="light" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="gegenschein" break_level="SPACE_BREAK"/>
+  <word text="give" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="such" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="blanket" lemma="blanket" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227019.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="phenomenon" lemma="phenomenon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277476.001" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="expected" break_level="SPACE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="before" break_level="SPACE_BREAK"/>
+  <word text="capture" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="circular" lemma="circular" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233313.001" break_level="SPACE_BREAK"/>
+  <word text="orbits" lemma="orbit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273793.001" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="sun" lemma="sun" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295684.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="indicated" lemma="indicate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257731.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="trend" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="smaller" break_level="SPACE_BREAK"/>
+  <word text="visible" lemma="visible" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304441.001" break_level="SPACE_BREAK"/>
+  <word text="meteors" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="diurnal" break_level="SPACE_BREAK"/>
+  <word text="variation" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="observed" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="partly" break_level="SPACE_BREAK"/>
+  <word text="due" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dependence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="detector" break_level="SPACE_BREAK"/>
+  <word text="sensitivity" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="incident" lemma="incident" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257505.009" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="PARAGRAPH_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="micrometeorites" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="neighborhood" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="can" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="estimated" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="extrapolation" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="radar" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="visual" break_level="SPACE_BREAK"/>
+  <word text="meteor" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="A" break_level="SENTENCE_BREAK"/>
+  <word text="summary" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="prepared" lemma="prepare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280407.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="Whipple" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="basis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="photographic" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="visual" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="radar" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="given" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.026" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Table" lemma="table" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296660.006" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="From" break_level="SENTENCE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="estimated" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="25" break_level="SPACE_BREAK"/>
+  <word text="g" lemma="gram" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251776.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="zero" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="masses" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="assumption" lemma="assumption" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223417.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="decrease" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="factor" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.003" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="2.512" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="each" break_level="SPACE_BREAK"/>
+  <word text="unit" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="radius" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="calculated" lemma="calculate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230110.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="assuming" break_level="SPACE_BREAK"/>
+  <word text="spheres" lemma="sphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293068.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="density" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="except" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="smallest" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="must" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="higher" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="density" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="remain" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="system" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="presence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="radiation" break_level="SPACE_BREAK"/>
+  <word text="pressure" lemma="pressure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280534.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="values" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="particles" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="masses" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="given" lemma="given" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250954.002" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="based" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="estimate" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="numbers" lemma="number" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272399.003" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="visual" break_level="SPACE_BREAK"/>
+  <word text="meteors" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="It" break_level="SENTENCE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="assumed" lemma="assume" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223415.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="values" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="factor" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.003" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="2.512" break_level="SPACE_BREAK"/>
+  <word text="per" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="accordance" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="opinion" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="total" lemma="total" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299553.001" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="each" break_level="SPACE_BREAK"/>
+  <word text="unit" break_level="SPACE_BREAK"/>
+  <word text="range" lemma="range" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="constant" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="values" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="agree" lemma="agree" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220472.005" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Alpha" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="1959" break_level="SPACE_BREAK"/>
+  <word text="Eta" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="figures" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="next-to-last" break_level="SPACE_BREAK"/>
+  <word text="column" lemma="column" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234609.004" break_level="SPACE_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="assumption" lemma="assumption" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223417.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="50" break_level="SPACE_BREAK"/>
+  <word text="per" break_level="SPACE_BREAK"/>
+  <word text="cent" break_level="SPACE_BREAK"/>
+  <word text="shielding" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="hence" lemma="hence" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254439.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="figures" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.001" break_level="SPACE_BREAK"/>
+  <word text="apply" lemma="apply" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222532.003" break_level="SPACE_BREAK"/>
+  <word text="immediately" lemma="immediately" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257194.002" break_level="SPACE_BREAK"/>
+  <word text="above" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="atmosphere" lemma="atmosphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223600.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="unshielded" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="given" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.026" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="last" lemma="last" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.001" break_level="SPACE_BREAK"/>
+  <word text="column" lemma="column" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234609.004" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="figures" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.001" break_level="SPACE_BREAK"/>
+  <word text="constitute" lemma="constitute" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235534.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="best" lemma="good" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251501.004" break_level="SPACE_BREAK"/>
+  <word text="estimate" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="flux" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="interplanetary" break_level="SPACE_BREAK"/>
+  <word text="space" break_level="SPACE_BREAK"/>
+  <word text="near" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Of" break_level="SENTENCE_BREAK"/>
+  <word text="course" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="blanket" lemma="blanket" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227019.001" break_level="SPACE_BREAK"/>
+  <word text="around" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="fluxes" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="interplanetary" break_level="SPACE_BREAK"/>
+  <word text="space" break_level="SPACE_BREAK"/>
+  <word text="should" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="figures" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.001" break_level="SPACE_BREAK"/>
+  <word text="given" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.026" break_level="SPACE_BREAK"/>
+  <word text="here" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Note" lemma="note" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272172.013" break_level="PARAGRAPH_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="scale" lemma="scale" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287537.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="two" break_level="SPACE_BREAK"/>
+  <word text="orders" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="previously" break_level="SPACE_BREAK"/>
+  <word text="used" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="example" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Jacchia" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1948" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="scale" lemma="scale" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287537.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="0.15" break_level="SPACE_BREAK"/>
+  <word text="g" lemma="gram" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251776.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="zero" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="older" lemma="old" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273160.001" break_level="SPACE_BREAK"/>
+  <word text="scales" lemma="scale" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287537.001" break_level="SPACE_BREAK"/>
+  <word text="were" break_level="SPACE_BREAK"/>
+  <word text="based" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="theoretical" break_level="SPACE_BREAK"/>
+  <word text="estimates" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="conversion" lemma="conversion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235790.001" break_level="SPACE_BREAK"/>
+  <word text="efficiency" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="kinetic" break_level="SPACE_BREAK"/>
+  <word text="energy" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="light" lemma="light" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263395.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="scale" lemma="scale" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287537.001" break_level="SPACE_BREAK"/>
+  <word text="used" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Table" lemma="table" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296660.006" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="was" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="assumption" lemma="assumption" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223417.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="motion" lemma="motion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269419.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="glowing" break_level="SPACE_BREAK"/>
+  <word text="trail" lemma="trail" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299825.001" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="related" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="momentum" lemma="momentum" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268785.001" break_level="SPACE_BREAK"/>
+  <word text="transfer" lemma="transfer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299918.010" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="trail" lemma="trail" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299825.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="permitting" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="calculation" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="velocity" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="known" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Cook" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Whipple" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="A" break_level="PARAGRAPH_BREAK"/>
+  <word text="concentration" lemma="concentration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235095.005" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="radar" break_level="SPACE_BREAK"/>
+  <word text="observations" lemma="observation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272703.001" break_level="SPACE_BREAK"/>
+  <word text="sensitive" lemma="sensitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289085.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="fifteenth" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Manning" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Eshleman" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1959" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Extrapolation" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="relationship" break_level="SPACE_BREAK"/>
+  <word text="through" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="thirtieth" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="covers" lemma="cover" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236650.008" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="range" lemma="range" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="micrometeorites" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="approximate" break_level="SPACE_BREAK"/>
+  <word text="equation" lemma="equation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244613.004" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="where" break_level="SPACE_BREAK"/>
+  <word text="n" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="number" lemma="number" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272399.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="electron" break_level="SPACE_BREAK"/>
+  <word text="line" break_level="SPACE_BREAK"/>
+  <word text="density" break_level="SPACE_BREAK"/>
+  <word text="greater" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="equal" lemma="equal" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244598.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="q" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="proportional" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="meteorite" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Therefore" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="n" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="inversely" break_level="SPACE_BREAK"/>
+  <word text="proportional" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="radius" break_level="SPACE_BREAK"/>
+  <word text="cubed" lemma="cube" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237523.005" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="fair" break_level="SPACE_BREAK"/>
+  <word text="agreement" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="inverse" break_level="SPACE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="power" lemma="power" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280001.022" break_level="SPACE_BREAK"/>
+  <word text="derived" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="1958" break_level="SPACE_BREAK"/>
+  <word text="Alpha" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="1959" break_level="SPACE_BREAK"/>
+  <word text="Eta" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="At" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="fifteenth" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="twenty-fifth" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="These" break_level="SENTENCE_BREAK"/>
+  <word text="extrapolated" break_level="SPACE_BREAK"/>
+  <word text="fluxes" lemma="flux" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248006.005" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="order" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="magnitude" break_level="SPACE_BREAK"/>
+  <word text="less" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="values" lemma="value" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303448.007" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="satellite" lemma="satellite" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287329.001" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="figures" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Whipple" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="table" lemma="table" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296660.006" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="extrapolation" break_level="SPACE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="error" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="several" break_level="SPACE_BREAK"/>
+  <word text="reasons" lemma="reason" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283330.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="observational" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="determining" lemma="determine" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239831.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="concentration" lemma="concentration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235095.005" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="range" lemma="range" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="error" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="magnified" lemma="magnify" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265324.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="extension" lemma="extension" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245722.001" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="micrometeorite" break_level="SPACE_BREAK"/>
+  <word text="region" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="solar" break_level="SPACE_BREAK"/>
+  <word text="electromagnetic" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="corpuscular-radiation" break_level="SPACE_BREAK"/>
+  <word text="pressure" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="associated" lemma="associated" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223395.001" break_level="SPACE_BREAK"/>
+  <word text="Poynting-Robertson" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="effectiveness" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="particle" lemma="particle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275808.001" break_level="SPACE_BREAK"/>
+  <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="decreases" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="modify" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="limit" break_level="SPACE_BREAK"/>
+  <word text="sizes" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="larger" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="few" break_level="SPACE_BREAK"/>
+  <word text="microns" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Also" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="suggested" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="source" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="part" lemma="part" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275784.009" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="may" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="same" lemma="same" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286917.001" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="visual" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="radar" break_level="SPACE_BREAK"/>
+  <word text="meteorites" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Best" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="same" lemma="same" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286917.001" break_level="SPACE_BREAK"/>
+  <word text="distribution" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="be" break_level="SPACE_BREAK"/>
+  <word text="expected" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="A" break_level="PARAGRAPH_BREAK"/>
+  <word text="measure" lemma="measure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.022" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="total" lemma="total" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299553.001" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="accretion" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth" lemma="earth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242825.001" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="obtained" lemma="obtain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272728.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="analyses" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="deep" lemma="deep" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238936.001" break_level="SPACE_BREAK"/>
+  <word text="sea" break_level="SPACE_BREAK"/>
+  <word text="sediments" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="collected" lemma="collect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234429.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="remote" lemma="remote" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284185.002" break_level="SPACE_BREAK"/>
+  <word text="regions" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Pettersson" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Most" break_level="SENTENCE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="time" break_level="SPACE_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="reaches" lemma="reach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283234.007" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="Earth&#39;s" break_level="SPACE_BREAK"/>
+  <word text="surface" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="has" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="reduced" lemma="reduce" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283720.012" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="dust" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="spherules" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="ablated" break_level="SPACE_BREAK"/>
+  <word text="material" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="its" break_level="SPACE_BREAK"/>
+  <word text="passage" lemma="passage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275909.001" break_level="SPACE_BREAK"/>
+  <word text="through" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="atmosphere" lemma="atmosphere" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223600.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="For" break_level="SENTENCE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="meteorites" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="average" break_level="SPACE_BREAK"/>
+  <word text="nickel" lemma="nickel" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271393.001" break_level="SPACE_BREAK"/>
+  <word text="content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="about" lemma="about" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219359.009" break_level="SPACE_BREAK"/>
+  <word text="2.5" break_level="SPACE_BREAK"/>
+  <word text="per" break_level="SPACE_BREAK"/>
+  <word text="cent" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="This" break_level="SENTENCE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="much" break_level="SPACE_BREAK"/>
+  <word text="higher" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="nickel" lemma="nickel" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271393.001" break_level="SPACE_BREAK"/>
+  <word text="content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="terrestrial" break_level="SPACE_BREAK"/>
+  <word text="dusts" lemma="dust" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242592.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="sediments" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="provides" lemma="provide" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281380.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="basis" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="determination" lemma="determination" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239829.002" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="meteoritic" break_level="SPACE_BREAK"/>
+  <word text="mass" lemma="mass" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266363.008" break_level="SPACE_BREAK"/>
+  <word text="influx" lemma="influx" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258006.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Present" lemma="present" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280475.003" break_level="SENTENCE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="SPACE_BREAK"/>
+  <word text="indicate" lemma="indicate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257731.001" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="accretion" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="tons" lemma="ton" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299287.001" break_level="SPACE_BREAK"/>
+  <word text="per" break_level="SPACE_BREAK"/>
+  <word text="year" break_level="SPACE_BREAK"/>
+  <word text="over" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="entire" break_level="SPACE_BREAK"/>
+  <word text="globe" lemma="globe" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251105.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="*" break_level="SPACE_BREAK"/>
+  <word text="f" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+</SimpleWsdDoc>

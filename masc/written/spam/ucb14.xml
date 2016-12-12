@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/spam/ucb14.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="spam" lemma="spam" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292742.002" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="ucb14.txt" break_level="NO_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Sat" break_level="PARAGRAPH_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="Nov" break_level="SPACE_BREAK"/>
+  <word text="2007" break_level="SPACE_BREAK"/>
+  <word text="07:22:34" break_level="SPACE_BREAK"/>
+  <word text="+0100" break_level="SPACE_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Brittany" break_level="NO_BREAK"/>
+  <word text="Craft" break_level="SPACE_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="xxx@xxx.xxx" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Legal" break_level="SENTENCE_BREAK"/>
+  <word text="software" break_level="SPACE_BREAK"/>
+  <word text="sales" lemma="sale" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286747.001" break_level="SPACE_BREAK"/>
+  <word text="Our" break_level="PARAGRAPH_BREAK"/>
+  <word text="main" break_level="SPACE_BREAK"/>
+  <word text="purpose" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="provide" lemma="provide" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281380.001" break_level="SPACE_BREAK"/>
+  <word text="PC" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Mac" break_level="SPACE_BREAK"/>
+  <word text="lawful" break_level="SPACE_BREAK"/>
+  <word text="soft" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="computer" break_level="SPACE_BREAK"/>
+  <word text="solutions" lemma="solution" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292287.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="low" lemma="low" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264526.010" break_level="SPACE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="any" break_level="SPACE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="afford" lemma="afford" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220263.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Whether" break_level="SENTENCE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="&#39;re" break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="corporate" break_level="SPACE_BREAK"/>
+  <word text="purchaser" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="enterprise" lemma="enterprise" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244316.003" break_level="SPACE_BREAK"/>
+  <word text="holder" lemma="holder" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255314.002" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="or" break_level="LINE_BREAK"/>
+  <word text="shopping" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="home" lemma="home" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255439.001" break_level="SPACE_BREAK"/>
+  <word text="personal" lemma="personal" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277147.001" break_level="SPACE_BREAK"/>
+  <word text="computer" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="think" break_level="SPACE_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="&#39;ll" break_level="NO_BREAK"/>
+  <word text="assist" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="HERE" lemma="here" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254554.001" break_level="SENTENCE_BREAK"/>
+  <word text="IS" break_level="SPACE_BREAK"/>
+  <word text="A" break_level="SPACE_BREAK"/>
+  <word text="LIST" lemma="list" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263771.001" break_level="SPACE_BREAK"/>
+  <word text="OF" break_level="SPACE_BREAK"/>
+  <word text="OUR" break_level="SPACE_BREAK"/>
+  <word text="SOFTWARE" break_level="SPACE_BREAK"/>
+  <word text="http://glygyhb.prooemsoft.net" break_level="LINE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="Most" lemma="most" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269360.005" break_level="LINE_BREAK"/>
+  <word text="demanding" break_level="SPACE_BREAK"/>
+  <word text="materials" lemma="material" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266478.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Quark" break_level="NO_BREAK"/>
+  <word text="Xpress" break_level="SPACE_BREAK"/>
+  <word text="v6.1" break_level="SPACE_BREAK"/>
+  <word text="Passport" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="1560.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="59.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Microsoft" break_level="NO_BREAK"/>
+  <word text="Windows" break_level="SPACE_BREAK"/>
+  <word text="2000" break_level="SPACE_BREAK"/>
+  <word text="Server" lemma="server" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289305.002" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="Full" break_level="SPACE_BREAK"/>
+  <word text="Version" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="today" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="725.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.005" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="59.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Adobe" break_level="NO_BREAK"/>
+  <word text="Dreamweaver" break_level="SPACE_BREAK"/>
+  <word text="CS3" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="399.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="59.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Macromedia" break_level="NO_BREAK"/>
+  <word text="Fontographer" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.005" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="105.95" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.005" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="19.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Microsoft" break_level="NO_BREAK"/>
+  <word text="Plus" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="Windows" break_level="SPACE_BREAK"/>
+  <word text="XP" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="29.95" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="10.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Adobe" break_level="NO_BREAK"/>
+  <word text="Audition" break_level="SPACE_BREAK"/>
+  <word text="2.0" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.005" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="349.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="just" break_level="SPACE_BREAK"/>
+  <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="49.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Adobe" break_level="NO_BREAK"/>
+  <word text="After" break_level="SPACE_BREAK"/>
+  <word text="Effects" break_level="SPACE_BREAK"/>
+  <word text="V" break_level="SPACE_BREAK"/>
+  <word text="6.5" break_level="SPACE_BREAK"/>
+  <word text="Professional" break_level="SPACE_BREAK"/>
+  <word text="PC" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="699.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="49.95" break_level="NO_BREAK"/>
+  <word text="*" break_level="LINE_BREAK"/>
+  <word text="Adobe" break_level="NO_BREAK"/>
+  <word text="Encore" break_level="SPACE_BREAK"/>
+  <word text="DVD" break_level="SPACE_BREAK"/>
+  <word text="V" break_level="SPACE_BREAK"/>
+  <word text="1.5" break_level="SPACE_BREAK"/>
+  <word text="PC" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Retail" break_level="SENTENCE_BREAK"/>
+  <word text="price" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="today" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="700.00" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Our" break_level="SENTENCE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="$" break_level="SPACE_BREAK"/>
+  <word text="49.95" break_level="NO_BREAK"/>
+  <word text="COME" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="LINE_BREAK"/>
+  <word text="TO" break_level="SPACE_BREAK"/>
+  <word text="US" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="http://glygyhb.prooemsoft.net" break_level="LINE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+</SimpleWsdDoc>

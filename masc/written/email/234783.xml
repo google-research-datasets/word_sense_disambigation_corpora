@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/email/234783.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="email" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="234783.txt" break_level="NO_BREAK"/>
+  <word text="Message" lemma="message" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267368.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="ID" lemma="ID" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256893.003" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Wed" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="11" break_level="SPACE_BREAK"/>
+  <word text="Jul" break_level="SPACE_BREAK"/>
+  <word text="2001" break_level="SPACE_BREAK"/>
+  <word text="08:17:28" break_level="SPACE_BREAK"/>
+  <word text="-0700" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="PDT" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="steven.kean@enron.com" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="jeff.dasovich@enron.com" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="FINAL" break_level="SENTENCE_BREAK"/>
+  <word text="Cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="susan.mara@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="james.steffes@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="karen.denne@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="b." break_level="PARAGRAPH_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="sanders@enron.com" break_level="SENTENCE_BREAK"/>
+  <word text="Mime" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Version" lemma="version" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303957.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="1.0" break_level="SPACE_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Type" lemma="type" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301323.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="text" lemma="text" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298051.001" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="plain" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="charset" break_level="SPACE_BREAK"/>
+  <word text="=" break_level="NO_BREAK"/>
+  <word text="us" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="ascii" break_level="NO_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Transfer" lemma="transfer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299918.010" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Encoding" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="7bit" break_level="SPACE_BREAK"/>
+  <word text="Bcc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="susan.mara@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="james.steffes@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="karen.denne@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="b." break_level="PARAGRAPH_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="sanders@enron.com" break_level="SENTENCE_BREAK"/>
+  <word text="Attached" lemma="attach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223653.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="final" break_level="SPACE_BREAK"/>
+  <word text="letter" lemma="letter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263086.003" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Please" break_level="SENTENCE_BREAK"/>
+  <word text="note" lemma="note" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272172.013" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="change" lemma="change" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.017" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="top" lemma="top" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299383.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="page" lemma="page" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274966.001" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+</SimpleWsdDoc>

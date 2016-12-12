@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT SimpleWsdDoc (word*) >
+<!ATTLIST SimpleWsdDoc name CDATA #REQUIRED>
+
+<!ELEMENT word (#PCDATA)>
+<!ATTLIST word text CDATA #REQUIRED>
+<!ATTLIST word break_level CDATA #REQUIRED>
+<!ATTLIST word lemma CDATA #IMPLIED>
+<!ATTLIST word pos CDATA #IMPLIED>
+<!ATTLIST word sense CDATA #IMPLIED>

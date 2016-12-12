@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/spam/111404.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="spam" lemma="spam" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292742.002" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="111404.txt" break_level="NO_BREAK"/>
+  <word text="From" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Help" lemma="help" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254325.010" break_level="NO_BREAK"/>
+  <word text="Desk" break_level="SPACE_BREAK"/>
+  <word text="&#39;&#39;" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="YOUR" break_level="SENTENCE_BREAK"/>
+  <word text="MAILBOX" break_level="SPACE_BREAK"/>
+  <word text="HAS" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="BEEN" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="DE-ACTIVATED" break_level="SPACE_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Wed" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="09" break_level="SPACE_BREAK"/>
+  <word text="Feb" break_level="SPACE_BREAK"/>
+  <word text="2011" break_level="SPACE_BREAK"/>
+  <word text="06:53:46" break_level="SPACE_BREAK"/>
+  <word text="-0200" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="undisclosed" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="recipients" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text=";" break_level="SPACE_BREAK"/>
+  <word text="We" break_level="PARAGRAPH_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="contacting" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="regards" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="unusual" break_level="SPACE_BREAK"/>
+  <word text="activity" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="LINE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="LINE_BREAK"/>
+  <word text="identified" lemma="identify" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256926.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="Mailbox" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="As" break_level="SENTENCE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="result" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="access" lemma="access" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219525.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="mailbox" break_level="LINE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="limited" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="You" break_level="PARAGRAPH_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="required" break_level="SPACE_BREAK"/>
+  <word text="verify" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="mailbox" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="providing" lemma="provide" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281380.001" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="following" break_level="SPACE_BREAK"/>
+  <word text="information" lemma="information" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258019.001" break_level="LINE_BREAK"/>
+  <word text="before" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="mailbox" break_level="SPACE_BREAK"/>
+  <word text="will" lemma="will" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306429.001" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="reactivated" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="Username" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Password" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="E-mail" break_level="SENTENCE_BREAK"/>
+  <word text="Address" lemma="address" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219905.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Please" break_level="PARAGRAPH_BREAK"/>
+  <word text="verify" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="mailbox" break_level="SPACE_BREAK"/>
+  <word text="otherwise" lemma="otherwise" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274203.001" break_level="SPACE_BREAK"/>
+  <word text="due" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="security" lemma="security" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288486.001" break_level="SPACE_BREAK"/>
+  <word text="reasons" lemma="reason" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283330.001" break_level="SPACE_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="may" lemma="may" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266614.001" break_level="LINE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.019" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="close" lemma="close" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233815.007" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="mailbox" break_level="SPACE_BREAK"/>
+  <word text="temporarily" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="After" break_level="PARAGRAPH_BREAK"/>
+  <word text="you" break_level="LINE_BREAK"/>
+  <word text="read" lemma="read" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283249.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="message" lemma="message" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267368.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="best" lemma="best" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1226116.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="REPLY" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="SAVE" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="copy" lemma="copy" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235960.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Thank" break_level="PARAGRAPH_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="cooperation" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Webmail" break_level="SENTENCE_BREAK"/>
+  <word text="Help" lemma="help" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254325.010" break_level="SPACE_BREAK"/>
+  <word text="Desk" break_level="LINE_BREAK"/>
+</SimpleWsdDoc>

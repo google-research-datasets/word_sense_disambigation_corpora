@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/spam/ucb8.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="spam" lemma="spam" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292742.002" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="ucb8.txt" break_level="NO_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="PARAGRAPH_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Fri" break_level="PARAGRAPH_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="Nov" break_level="SPACE_BREAK"/>
+  <word text="2007" break_level="SPACE_BREAK"/>
+  <word text="16:28:22" break_level="SPACE_BREAK"/>
+  <word text="+0100" break_level="SPACE_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="Jerry" break_level="NO_BREAK"/>
+  <word text="Hanna" break_level="SPACE_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="xxx@xxx.xxx" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Doctors" lemma="doctor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241274.001" break_level="SENTENCE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Celebrities" break_level="SPACE_BREAK"/>
+  <word text="endorse" lemma="endorse" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244084.001" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="PARAGRAPH_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="The" break_level="SPACE_BREAK"/>
+  <word text="up" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="to" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="the" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="moment" lemma="moment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268778.001" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="most" lemma="most" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269360.005" break_level="SPACE_BREAK"/>
+  <word text="attracting" break_level="SPACE_BREAK"/>
+  <word text="product" lemma="product" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280957.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="corpulent" break_level="SPACE_BREAK"/>
+  <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
+  <word text="available" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="As" break_level="SPACE_BREAK"/>
+  <word text="seen" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="BBC.Can" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="remember" break_level="LINE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="said" lemma="say" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287486.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="yourself" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
+  <word text="any" break_level="SPACE_BREAK"/>
+  <word text="thing" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="delivered" lemma="deliver" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239220.001" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="fastly" break_level="SPACE_BREAK"/>
+  <word text="growing" lemma="grow" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252535.006" break_level="SPACE_BREAK"/>
+  <word text="pounds" lemma="pound" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279950.001" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="fat" break_level="SPACE_BREAK"/>
+  <word text="?" break_level="NO_BREAK"/>
+  <word text="Happily" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
+  <word text="no" break_level="SPACE_BREAK"/>
+  <word text="major" lemma="major" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265459.001" break_level="SPACE_BREAK"/>
+  <word text="offering" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="demanded.With" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="ground" lemma="ground" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252457.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="breaking" break_level="NO_BREAK"/>
+  <word text="pound" lemma="pound" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279950.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="melting" break_level="NO_BREAK"/>
+  <word text="blend" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="achieve" break_level="LINE_BREAK"/>
+  <word text="healthier" break_level="SPACE_BREAK"/>
+  <word text="mode" lemma="mode" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268617.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="life" lemma="life" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263339.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="become" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
+  <word text="really" break_level="SPACE_BREAK"/>
+  <word text="thinner.Have" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="look" lemma="look" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.019" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="what" break_level="SPACE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="customers" lemma="customer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237843.001" break_level="SPACE_BREAK"/>
+  <word text="write" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="``" break_level="PARAGRAPH_BREAK"/>
+  <word text="It" break_level="NO_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="unbearably" break_level="SPACE_BREAK"/>
+  <word text="difficult" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="confess" break_level="SPACE_BREAK"/>
+  <word text="but" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="awful" lemma="awful" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224076.001" break_level="SPACE_BREAK"/>
+  <word text="food" break_level="SPACE_BREAK"/>
+  <word text="addict" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="I" break_level="SENTENCE_BREAK"/>
+  <word text="greedily" break_level="SPACE_BREAK"/>
+  <word text="devoured" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="trash" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="unable" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="LINE_BREAK"/>
+  <word text="stop" lemma="stop" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294654.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="This" break_level="SENTENCE_BREAK"/>
+  <word text="ruinous" lemma="ruinous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286225.001" break_level="SPACE_BREAK"/>
+  <word text="passion" lemma="passion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275946.001" break_level="SPACE_BREAK"/>
+  <word text="left" break_level="SPACE_BREAK"/>
+  <word text="off" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="started" break_level="SPACE_BREAK"/>
+  <word text="course" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="taking" lemma="take" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296844.001" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="Holy" break_level="SENTENCE_BREAK"/>
+  <word text="God" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="appetite" break_level="SPACE_BREAK"/>
+  <word text="disappeared" lemma="disappear" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240649.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="mood" lemma="mood" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269083.001" break_level="SPACE_BREAK"/>
+  <word text="increased" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="turned" lemma="turn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301051.015" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="happiest" lemma="happy" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253514.001" break_level="SPACE_BREAK"/>
+  <word text="person" lemma="person" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277141.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="world" lemma="world" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307108.001" break_level="SPACE_BREAK"/>
+  <word text="28" break_level="SPACE_BREAK"/>
+  <word text="pounds" lemma="pound" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279950.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="2.1" break_level="SPACE_BREAK"/>
+  <word text="months" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="So" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="tell" lemma="tell" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297608.001" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="became" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="happiest" lemma="happy" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253514.001" break_level="LINE_BREAK"/>
+  <word text="person" lemma="person" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277141.001" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="Rita" break_level="PARAGRAPH_BREAK"/>
+  <word text="R." break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Boston" break_level="SPACE_BREAK"/>
+  <word text="``" break_level="PARAGRAPH_BREAK"/>
+  <word text="Since" break_level="NO_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="early" lemma="early" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242798.003" break_level="SPACE_BREAK"/>
+  <word text="childhood" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="bulky" break_level="SPACE_BREAK"/>
+  <word text="boy" lemma="boy" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1228301.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="You" break_level="SENTENCE_BREAK"/>
+  <word text="ca" break_level="SPACE_BREAK"/>
+  <word text="n&#39;t" break_level="NO_BREAK"/>
+  <word text="even" break_level="SPACE_BREAK"/>
+  <word text="fancy" lemma="fancy" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246203.010" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="hated" break_level="SPACE_BREAK"/>
+  <word text="being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="ridiculed" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="school" lemma="school" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287761.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="I" break_level="SENTENCE_BREAK"/>
+  <word text="hated" break_level="SPACE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="stoutness" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="detested" break_level="SPACE_BREAK"/>
+  <word text="myself" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="After" break_level="SENTENCE_BREAK"/>
+  <word text="trying" lemma="try" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300736.001" break_level="SPACE_BREAK"/>
+  <word text="many" break_level="SPACE_BREAK"/>
+  <word text="different" lemma="different" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240277.001" break_level="SPACE_BREAK"/>
+  <word text="remedies" lemma="remedy" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284148.001" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="heard" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="It" break_level="SENTENCE_BREAK"/>
+  <word text="literally" break_level="SPACE_BREAK"/>
+  <word text="took" lemma="take" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296844.023" break_level="SPACE_BREAK"/>
+  <word text="me" break_level="SPACE_BREAK"/>
+  <word text="out" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="LINE_BREAK"/>
+  <word text="nightmare" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="sincere" break_level="SPACE_BREAK"/>
+  <word text="thanks" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="friends" lemma="friend" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249121.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="Serge" break_level="PARAGRAPH_BREAK"/>
+  <word text="Smith" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Boston" break_level="SPACE_BREAK"/>
+  <word text="``" break_level="PARAGRAPH_BREAK"/>
+  <word text="You" break_level="NO_BREAK"/>
+  <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
+  <word text="what" break_level="SPACE_BREAK"/>
+  <word text="?" break_level="NO_BREAK"/>
+  <word text="Anatrim" break_level="SENTENCE_BREAK"/>
+  <word text="saved" break_level="SPACE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="marriage" lemma="marriage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266207.001" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="I" break_level="SENTENCE_BREAK"/>
+  <word text="went" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
+  <word text="into" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="circle" lemma="circle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233303.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="depression" lemma="depression" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239563.001" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="eating" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="depression.My" break_level="SPACE_BREAK"/>
+  <word text="wife" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="LINE_BREAK"/>
+  <word text="thinking" lemma="think" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298366.004" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="leaving" lemma="leave" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262701.004" break_level="SPACE_BREAK"/>
+  <word text="me" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
+  <word text="turning" lemma="turn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301051.015" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="overweight" break_level="SPACE_BREAK"/>
+  <word text="psycho.My" break_level="SPACE_BREAK"/>
+  <word text="friend" lemma="friend" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249121.001" break_level="SPACE_BREAK"/>
+  <word text="pointed" lemma="point" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279055.057" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="web" lemma="web" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305511.003" break_level="SPACE_BREAK"/>
+  <word text="page" lemma="page" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274966.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="ordered" lemma="order" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273820.035" break_level="SPACE_BREAK"/>
+  <word text="up" break_level="LINE_BREAK"/>
+  <word text="pack" lemma="pack" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274889.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="Anatrim" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.023" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="achieved" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="magnficent" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="appetite" break_level="SPACE_BREAK"/>
+  <word text="came" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.016" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="acceptable" lemma="acceptable" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219520.001" break_level="SPACE_BREAK"/>
+  <word text="level" lemma="level" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263147.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="good" lemma="good" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251501.001" break_level="LINE_BREAK"/>
+  <word text="mood" lemma="mood" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269083.001" break_level="SPACE_BREAK"/>
+  <word text="oftener" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="certainly" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="became" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
+  <word text="able" lemma="able" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219312.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="tighten" break_level="SPACE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="belt" lemma="belt" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225866.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="holes.And" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="see" break_level="SPACE_BREAK"/>
+  <word text="me" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="bed" lemma="bed" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225562.001" break_level="SPACE_BREAK"/>
+  <word text="became" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
+  <word text="cool" lemma="cool" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235852.008" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="LINE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="Mike" break_level="PARAGRAPH_BREAK"/>
+  <word text="There" break_level="PARAGRAPH_BREAK"/>
+  <word text="are" break_level="SPACE_BREAK"/>
+  <word text="lots" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="gratitudes" break_level="SPACE_BREAK"/>
+  <word text="left" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="happy" lemma="happy" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253514.001" break_level="SPACE_BREAK"/>
+  <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
+  <word text="taking" lemma="take" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296844.001" break_level="SPACE_BREAK"/>
+  <word text="Anatrim.Why" break_level="SPACE_BREAK"/>
+  <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
+  <word text="n&#39;t" break_level="NO_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="join" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="thousands" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="thousands" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="slender" lemma="slender" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291372.001" break_level="LINE_BREAK"/>
+  <word text="customers" lemma="customer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237843.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="try" lemma="try" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300736.001" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="all" lemma="all" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220974.009" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="natural" lemma="natural" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270618.001" break_level="NO_BREAK"/>
+  <word text="appetite" break_level="SPACE_BREAK"/>
+  <word text="suppressing" break_level="SPACE_BREAK"/>
+  <word text="energy" lemma="energy" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244127.001" break_level="SPACE_BREAK"/>
+  <word text="boosting" break_level="SPACE_BREAK"/>
+  <word text="product" lemma="product" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280957.001" break_level="SPACE_BREAK"/>
+  <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="Do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SENTENCE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="lose" lemma="lose" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264407.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="opportunity" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="http://www.sodbrel.com/?vjiuthvkurj" break_level="LINE_BREAK"/>
+</SimpleWsdDoc>

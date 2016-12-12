@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/email/234267.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="email" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="234267.txt" break_level="NO_BREAK"/>
+  <word text="Message" lemma="message" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267368.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="ID" lemma="ID" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256893.003" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Tue" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="Feb" break_level="SPACE_BREAK"/>
+  <word text="2000" break_level="SPACE_BREAK"/>
+  <word text="01:43:00" break_level="SPACE_BREAK"/>
+  <word text="-0800" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="PST" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="mary.hain@enron.com" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="richard.sanders@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="christian.yoder@enron.com" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="ellen@tca" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="us.com" break_level="NO_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="confidential" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="client" lemma="client" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233693.001" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="attorney" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="Mime" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Version" lemma="version" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303957.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="1.0" break_level="SPACE_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Type" lemma="type" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301323.001" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="text" lemma="text" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298051.001" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="plain" break_level="NO_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="charset" break_level="SPACE_BREAK"/>
+  <word text="=" break_level="NO_BREAK"/>
+  <word text="us" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="ascii" break_level="NO_BREAK"/>
+  <word text="Content" lemma="content" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235616.001" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Transfer" lemma="transfer" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299918.010" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Encoding" break_level="NO_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="7bit" break_level="SPACE_BREAK"/>
+  <word text="X-From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Mary" break_level="SENTENCE_BREAK"/>
+  <word text="Hain" break_level="SPACE_BREAK"/>
+  <word text="X-To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Richard" break_level="SENTENCE_BREAK"/>
+  <word text="Sanders" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Christian" break_level="SPACE_BREAK"/>
+  <word text="Yoder" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="ellen@tca" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="us.com" break_level="NO_BREAK"/>
+  <word text="X-cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="X-bcc" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="X-Folder" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="\" break_level="SPACE_BREAK"/>
+  <word text="Richard_Sanders_Dec2000" break_level="NO_BREAK"/>
+  <word text="\" break_level="NO_BREAK"/>
+  <word text="Notes" break_level="NO_BREAK"/>
+  <word text="Folders" break_level="SPACE_BREAK"/>
+  <word text="\" break_level="NO_BREAK"/>
+  <word text="All" break_level="NO_BREAK"/>
+  <word text="documents" break_level="SPACE_BREAK"/>
+  <word text="X-Origin" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Sanders" break_level="SENTENCE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="R" break_level="NO_BREAK"/>
+  <word text="X-FileName" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="rsander.nsf" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="PARAGRAPH_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="Forwarded" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="Mary" break_level="SPACE_BREAK"/>
+  <word text="Hain" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="HOU" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="ECT" break_level="NO_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="02/01/2000" break_level="SPACE_BREAK"/>
+  <word text="09:47" break_level="SPACE_BREAK"/>
+  <word text="AM" break_level="SPACE_BREAK"/>
+  <word text="--" break_level="LINE_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="--" break_level="NO_BREAK"/>
+  <word text="From" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Cooper" break_level="SENTENCE_BREAK"/>
+  <word text="Richey" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="02/01/2000" break_level="SPACE_BREAK"/>
+  <word text="09:18" break_level="SPACE_BREAK"/>
+  <word text="AM" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Mary" break_level="SENTENCE_BREAK"/>
+  <word text="Hain" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="HOU" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="ECT@ECT" break_level="NO_BREAK"/>
+  <word text="cc" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="SENTENCE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="confidential" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="client" lemma="client" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233693.001" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="attorney" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="revised" lemma="revise" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284798.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="excel" break_level="SPACE_BREAK"/>
+  <word text="workbook" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="attached" lemma="attach" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223653.001" break_level="SPACE_BREAK"/>
+  <word text="please" break_level="PARAGRAPH_BREAK"/>
+  <word text="forward" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="Ellen" break_level="SPACE_BREAK"/>
+  <word text="B." break_level="SPACE_BREAK"/>
+  <word text="Ellen" break_level="PARAGRAPH_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="added" lemma="add" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219879.006" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="statistic" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="wanted" lemma="want" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305040.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="updated" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="older" lemma="old" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273160.005" break_level="SPACE_BREAK"/>
+  <word text="ones" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="NO_BREAK"/>
+  <word text="&#39;ll" break_level="NO_BREAK"/>
+  <word text="notice" break_level="LINE_BREAK"/>
+  <word text="slightly" lemma="slightly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291403.001" break_level="LINE_BREAK"/>
+  <word text="different" break_level="SPACE_BREAK"/>
+  <word text="prices" lemma="price" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280629.001" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="occurrences" break_level="NO_BREAK"/>
+  <word text="because" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="n&#39;t" break_level="NO_BREAK"/>
+  <word text="cut" break_level="SPACE_BREAK"/>
+  <word text="off" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="Jan" break_level="LINE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="2000" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="SPACE_BREAK"/>
+  <word text="i.e." break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="averages" lemma="average" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224010.001" break_level="SPACE_BREAK"/>
+  <word text="previously" break_level="SPACE_BREAK"/>
+  <word text="included" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="last" lemma="last" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.005" break_level="SPACE_BREAK"/>
+  <word text="month" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="worth" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="data" lemma="data" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238419.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="-" break_level="PARAGRAPH_BREAK"/>
+  <word text="c" break_level="SPACE_BREAK"/>
+</SimpleWsdDoc>

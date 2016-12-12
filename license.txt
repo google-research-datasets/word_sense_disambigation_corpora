@@ -1,0 +1,205 @@
+This data is licensed by Google Inc. under a Creative Commons Attribution 4.0 International License. 
+Please see below the licenses for WordNet, Semcor and Masc.
+
+WordNet License
+
+This license is available as the file LICENSE in any downloaded version of WordNet. 
+WordNet 3.0 license: (Download)
+
+WordNet Release 3.0 This software and database is being provided to you, the LICENSEE, by Princeton University under the following license. By obtaining, using and/or copying this software and database, you agree that you have read, understood, and will comply with these terms and conditions.: Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution. WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved. THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. The name of Princeton University or Princeton may not be used in advertising or publicity pertaining to distribution of the software and/or database. Title to copyright in this software, database and any associated documentation shall at all times remain with Princeton University and LICENSEE agrees to preserve same.
+
+SemCor 3.0 
+                        =====================
+                            June 13, 2008 
+                     Rada Mihalcea, rada@cs.unt.edu
+                       University of North Texas 
+
+
+
+SemCor 3.0 was automatically created from SemCor 1.6 by mapping 
+WordNet 1.6 to WordNet 3.0 senses.
+SemCor 1.6 was created and is property of Princeton University.
+
+Some (few) word senses from WordNet 1.6 were dropped, and therefore 
+they cannot be retrieved anymore in the 3.0 database. A sense of 0 
+(wnsn=0) is used to symbolize a missing sense in WordNet 3.0.
+
+The automatic mapping was performed within the Language and Information 
+Technologies lab at UNT, by Rada Mihalcea (rada@cs.unt.edu).
+
+THIS MAPPING IS PROVIDED "AS IS" AND UNT MAKES NO REPRESENTATIONS 
+OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMPLE, BUT NOT 
+LIMITATION, UNT MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE.
+
+In agreement with the license from Princeton Univerisity, you are 
+granted permission to use, copy, modify and distribute this database  
+for any purpose and without fee and royalty is hereby granted, provided 
+that you agree to comply with the Princeton copyright notice and 
+statements, including the disclaimer, and that the same appear on ALL 
+copies of the database, including modifications that you make for internal  
+use or for distribution.  
+Both LICENSE and README files distributed with the SemCor 1.6 package
+are included in the current distribution of SemCor 3.0.
+
+When the WordNet Semantic Concordance package is unbundled you should
+have the following files and subdirectories in this directory:
+
+	README.semcor3.0	this file
+	LICENSE			WordNet copyright and license agreement
+	INSTALL			INSTALL file for SemCor 1.6 
+	brown1		103 semantically tagged Brown Corpus files
+				(all content words tagged)
+	brown2		83 semantically tagged Brown Corpus files
+				(all content words tagged)
+	brownv		166 semantically tagged Brown Corpus files
+				(only verbs tagged)
+
+Each semantic concordance directory (brown1, brown2, brownv) contains
+the following subdirectories:
+	tagfiles	directory of semantically tagged files
+
+To access the files, unzip and untar the file semcor3.0.tar.gz.
+
+For other files, such as documentation, taglists, etc., please check 
+the SemCor 1.6 distribution (available from this site).
+
+Any questions regarding this mapping should be addressed to 
+Rada Mihalcea (rada@cs.unt.edu)
+
+
+
+WordNet Release 1.6
+Semantic Concordance Release 1.6
+
+This software and database is being provided to you, the LICENSEE, by  
+Princeton University under the following license.  By obtaining, using  
+and/or copying this software and database, you agree that you have  
+read, understood, and will comply with these terms and conditions.:  
+  
+Permission to use, copy, modify and distribute this software and  
+database and its documentation for any purpose and without fee or  
+royalty is hereby granted, provided that you agree to comply with  
+the following copyright notice and statements, including the disclaimer,  
+and that the same appear on ALL copies of the software, database and  
+documentation, including modifications that you make for internal  
+use or for distribution.  
+  
+WordNet 1.6 Copyright 1997 by Princeton University.  All rights reserved.  
+  
+THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON  
+UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR  
+IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON  
+UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-  
+ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE  
+OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT  
+INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR  
+OTHER RIGHTS.  
+  
+The name of Princeton University or Princeton may not be used in  
+advertising or publicity pertaining to distribution of the software  
+and/or database.  Title to copyright in this software, database and  
+any associated documentation shall at all times remain with  
+Princeton University and LICENSEE agrees to preserve same. 
+
+
+MASC-3.0.0  2012-12-15
+----------------------
+
+Full documentation for the MASC data and processing tools is
+available at http://www.anc.org/data/masc.
+
+DATA DESCRIPTION
+----------------
+See http://www.anc.org/data/masc/corpus
+
+CONTENTS
+--------
+
+data - 
+   spoken - data and annotations for spoken data
+   written - data and annotations for written data
+
+   See http://www.anc.org/data/masc/masc-structure for 
+   details on the organization of MASC data and annotation files
+ 
+   original-annotations - Contains annotations contributed to MASC in 
+        their original format, as prepared by an external annotation 
+        project. Versions of these annotations that have been transduced 
+        to GrAF XML are included in the data directories. In general, 
+        errors in the originals are left uncorrected.
+
+MASC-resource-header.xml - 
+   Comprehensive information about the corpus, contents, 
+   organization, domain codes, naming conventions, etc. 
+
+README-MASC3.0.0.txt - 
+   This document
+
+ 
+RELEASE 3.0.0 NOTES
+-------------------
+
+Quid Pro Quo
+------------
+
+Although every effort has been made to validate MASC annotations, there 
+are likely still errors, omissions, and inconsistencies. Because MASC is a 
+collaborative community resource, we ask the community to report errors so 
+that we can correct them. We will release immediate updates through 
+the MASC website at http://www.anc.org/data/masc/downloads/data-download/. 
+Periodic updates will also be made available through LDC.
+
+Known Problems
+--------------
+
+Penn POS tags
+
+The current Penn POS tags, generated by a modified version of GATE's ANNIE 
+Part-of-speech tagger, have not been fully validated. All Penn treebank (ptbtok)
+and FrameNet (fntok) POS tags are hand-validated. The remainder of MASC is 
+currently being annotated for Penn Treebank syntax, at which point the entire corpus 
+will have hand-annotated POS tags.
+
+
+Penn Treebank Tokens
+
+There remain a few problems with the Penn Treebank tokenizations, 
+primarily due to corrections to the texts made by the Treebank project
+in the course of generating the original annotations. In some cases,
+we have corrected the tokenizations to refer to the faulty text 
+segment (e.g., "o" for "off" due to removal of ligatures in the 
+course of transduction from original Quark Express files) and added 
+an annotation named "corrected" whose value provides the correction to 
+the text.
+
+
+Event co-reference
+
+The original GATE annotations done at Carnegie-Mellon University used the 
+annotation set name internal to GATE to group events that co-refer. This information 
+is lost once the annotations are output in any other format. The event co-reference 
+annotations included in MASC are therefore a subset of those in the originals, and do 
+not include the grouping information contained in the annotation set names. The 
+differences can be seen by loading both the MASC event annotations and the original 
+CMU annotations into GATE. 
+
+Tweets
+
+A few non-English tweets appear in the Twitter files.
+
+CONTACT
+-------
+
+MASC is a product of the American National Corpus project. 
+
+Email: anc@anc.org
+
+Department of Computer Science
+Vassar College
+Poughkeepsie, New York 12604-0520 
+USA
+
+
+Manually Annotated Sub-Corpus (MASC) National Science Foundation Computing Resource Infrastructure Grant CRI-0708952 American National Corpus Project American National Corpus Project Department of Computer Science, Vassar College, Poughkeepsie, New York 12604-0732 USA +1 (845) 437 7498 anc@cs.vassar.edu Linguistic Data Consortium 3600 Market Street, Suite 810, Philadelphia, PA, 19104-2653, USA +1 (215) 573-1275 +1 (215) 573-2175 ldc@ldc.upenn.edu LDC2010T22 The Manually Annotated Sub-Corpus (MASC) project is assembling a corpus of 500,000 words of contemporary American English, all of which contain manually produced or hand validated annotations for a variety of linguistic phenomena. The original texts in the MASC are drawn from the Open American National Corpus (OANC), which includes written texts and spoken transcripts of American English produced since 1990. The OANC includes a broad range of genres. MASC data have been selected to include approximately equal-sized representative samples of OANC genres. The data in the MASC are taken "as is" from the Open American National Corpus. OANC data is derived from original electronic versions in a wide variety of formats, including but not limited to Quark Express, XML, Microsoft Word, Portable Document Format (PDF), HTML, and plain text. Transduction procedures vary depending on the original format. As little correction or other editorial modification as possible is applied to the text themselves. Corrections to the text are either made in standoff documents containing the corrected version, or are reflected in values of segmentation, token, sentence, or other segmental unit, and/or part of speech annotation. The data are segmented into minimal regions spanning the primary data. Minimal regions are identified as the smallest unit any of the tokenizations applied to data references. Token annotations reference these regions as appropriate. Sentences reference regions in primary data. Category codes are referenced in the header of each primary data document Written journal fiction non-fiction travel guides newspaper/newswire web logs (blogs) technical documents government documents letters instruction manuals email messages creative writing essays jokes ficlets (fiction) movie scripts tweets spoken normalized transcriptions academic discourse conversational telephone speech interview face-to-face broadcast news broadcast conversation The following information identifies the physical files included in the corpus, their content types, and dependencies may contain PCDATA **or** a series of <directory> elements Segmentation into minimal token components ("quarks") ANC project Segmentation into logical elements (paragraph, section, etc.) ANC project noun chunks (shallow parse) ANC project verb chunks (shallow parse) ANC project sentence boundaries ANC project named entities ANC project Tokenization and Penn POS tags produced by GATE-5.0 ANNIE application ANC project Committed belief annotation produced by Columbia University CCLS, Columbia University Penn Treebank syntax Penn Treebank project Penn Treebank tokens with part of speech Penn Treebank project FrameNet frame elements FrameNet project FrameNet tokenization with part of speech FrameNet project WordNet sense tags ANC project and Columbia University Opinion/subjectivity annotation University of Pittsburgh Event co-reference annotation Language Technologies Institute, Carnegie-Mellon University Any segmentation of the primary data. Annotations that identify all tokens in the primary data and provide morphosyntactic (POS) annotations and (optionally) lemmas. Syntactic analysis Semantic analysis
+

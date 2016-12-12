@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/spam/Cartoonist_services.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="spam" lemma="spam" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292742.002" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="Cartoonist_services.txt" break_level="NO_BREAK"/>
+  <word text="From" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Dan" break_level="SENTENCE_BREAK"/>
+  <word text="Rosandich" break_level="SPACE_BREAK"/>
+  <word text="Subject" lemma="subject" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295267.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Cartoonist" break_level="SENTENCE_BREAK"/>
+  <word text="Dan" break_level="SPACE_BREAK"/>
+  <word text="Rosandich" break_level="SPACE_BREAK"/>
+  <word text="offers" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="publication" break_level="SPACE_BREAK"/>
+  <word text="+" break_level="SPACE_BREAK"/>
+  <word text="illustration" break_level="SPACE_BREAK"/>
+  <word text="services" break_level="SPACE_BREAK"/>
+  <word text="Date" lemma="date" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238437.001" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="March" break_level="SENTENCE_BREAK"/>
+  <word text="21" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="2012" break_level="SPACE_BREAK"/>
+  <word text="11:37:52" break_level="SPACE_BREAK"/>
+  <word text="AM" break_level="SPACE_BREAK"/>
+  <word text="EDT" break_level="SPACE_BREAK"/>
+  <word text="To" break_level="LINE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="dan@danscartoons.com" break_level="SPACE_BREAK"/>
+  <word text="Dear" break_level="PARAGRAPH_BREAK"/>
+  <word text="Editor" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Offering" break_level="PARAGRAPH_BREAK"/>
+  <word text="hundreds" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="technology" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="computer" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="licensing" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="based" lemma="base" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225073.025" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="circulation" lemma="circulation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233322.004" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Visit" lemma="visit" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304446.001" break_level="SENTENCE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="selections" lemma="selection" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288633.001" break_level="SPACE_BREAK"/>
+  <word text="here" lemma="here" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254554.001" break_level="SPACE_BREAK"/>
+  <word text=":" break_level="NO_BREAK"/>
+  <word text="Humorous" break_level="PARAGRAPH_BREAK"/>
+  <word text="Computer" break_level="SPACE_BREAK"/>
+  <word text="Cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="Catalog" break_level="SPACE_BREAK"/>
+  <word text="#" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="NO_BREAK"/>
+  <word text="Funny" lemma="funny" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249581.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="Technology" break_level="SPACE_BREAK"/>
+  <word text="Cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="Catalog" break_level="SPACE_BREAK"/>
+  <word text="#" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="NO_BREAK"/>
+  <word text="You" break_level="PARAGRAPH_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="option" lemma="option" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273729.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="changing" break_level="SPACE_BREAK"/>
+  <word text="gaglines" break_level="SPACE_BREAK"/>
+  <word text="underneath" break_level="SPACE_BREAK"/>
+  <word text="any" break_level="SPACE_BREAK"/>
+  <word text="cartoon" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="better" lemma="better" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1226175.006" break_level="SPACE_BREAK"/>
+  <word text="suit" lemma="suit" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295567.010" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="current" break_level="SPACE_BREAK"/>
+  <word text="topic" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="re-drawn" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="liking" lemma="like" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263474.007" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="colorized" break_level="SPACE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="wish" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Any" break_level="SENTENCE_BREAK"/>
+  <word text="image" lemma="image" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257139.001" break_level="SPACE_BREAK"/>
+  <word text="would" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="supplied" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="high" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="resolution" lemma="resolution" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284494.011" break_level="SPACE_BREAK"/>
+  <word text="300DPI" break_level="SPACE_BREAK"/>
+  <word text="TIFF" break_level="SPACE_BREAK"/>
+  <word text="format" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="sized" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="your" break_level="SPACE_BREAK"/>
+  <word text="preferred" break_level="SPACE_BREAK"/>
+  <word text="column" lemma="column" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234609.004" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="inch" lemma="inch" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257497.001" break_level="SPACE_BREAK"/>
+  <word text="width" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="You" break_level="PARAGRAPH_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="customized" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="humorous" break_level="SPACE_BREAK"/>
+  <word text="illustrations" break_level="SPACE_BREAK"/>
+  <word text="created" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="ideal" lemma="ideal" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256910.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="articles" lemma="article" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223107.002" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="stories" lemma="story" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294727.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="web" lemma="web" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305511.003" break_level="SPACE_BREAK"/>
+  <word text="pages" lemma="page" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274966.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="print" lemma="print" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280773.014" break_level="SPACE_BREAK"/>
+  <word text="advertising" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Visit" lemma="visit" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304446.001" break_level="SENTENCE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="portfolios" lemma="portfolio" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279653.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Humorous" break_level="PARAGRAPH_BREAK"/>
+  <word text="illustration" break_level="SPACE_BREAK"/>
+  <word text="Portfolio" lemma="portfolio" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279653.001" break_level="SPACE_BREAK"/>
+  <word text="Custom" break_level="PARAGRAPH_BREAK"/>
+  <word text="Cartoon" break_level="SPACE_BREAK"/>
+  <word text="Sample" break_level="SPACE_BREAK"/>
+  <word text="Portfolio" break_level="SPACE_BREAK"/>
+  <word text="Also" break_level="PARAGRAPH_BREAK"/>
+  <word text="offer" break_level="SPACE_BREAK"/>
+  <word text="thousands" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="other" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="wide" lemma="wide" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306319.005" break_level="SPACE_BREAK"/>
+  <word text="variety" lemma="variety" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303576.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="topics" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="directly" lemma="directly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240581.004" break_level="SPACE_BREAK"/>
+  <word text="accessed" lemma="access" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219525.008" break_level="SPACE_BREAK"/>
+  <word text="via" break_level="SPACE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="main" break_level="SPACE_BREAK"/>
+  <word text="page" lemma="page" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274966.001" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="DansCartoons" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="See" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SENTENCE_BREAK"/>
+  <word text="my" break_level="SPACE_BREAK"/>
+  <word text="Computer" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Tech" break_level="SPACE_BREAK"/>
+  <word text="Gifts" lemma="gift" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250817.001" break_level="SPACE_BREAK"/>
+  <word text="store" break_level="SPACE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="know" break_level="SPACE_BREAK"/>
+  <word text="someone" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="sense" lemma="sense" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289077.002" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="humor" lemma="humor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256245.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="If" break_level="SENTENCE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
+  <word text="questions" break_level="SPACE_BREAK"/>
+  <word text="about" break_level="SPACE_BREAK"/>
+  <word text="any" break_level="SPACE_BREAK"/>
+  <word text="cartoons" lemma="cartoon" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231065.001" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="services" break_level="SPACE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="need" lemma="need" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270832.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="email" break_level="SPACE_BREAK"/>
+  <word text="me" break_level="SPACE_BREAK"/>
+  <word text="directly" lemma="directly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240581.004" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="dan@danscartoons.com" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="forward" lemma="forward" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248624.022" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="information" lemma="information" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258019.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="associate" lemma="associate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223394.006" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="would" lemma="would" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307187.002" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="appreciated" lemma="appreciate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222550.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Thank" break_level="SENTENCE_BREAK"/>
+  <word text="you" break_level="SPACE_BREAK"/>
+  <word text="!" break_level="NO_BREAK"/>
+  <word text="Sincerely" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Dan" break_level="LINE_BREAK"/>
+  <word text="Rosandich" break_level="SPACE_BREAK"/>
+  <word text="cartoonist" break_level="LINE_BREAK"/>
+</SimpleWsdDoc>

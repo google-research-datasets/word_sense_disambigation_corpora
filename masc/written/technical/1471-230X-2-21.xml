@@ -1,0 +1,2573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SimpleWsdDoc SYSTEM "simple-wsd-doc.dtd">
+<SimpleWsdDoc name="/written/technical/1471-230X-2-21.txt">
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="written" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="technical" break_level="NO_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="1471" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="230X" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="2" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="21.txt" break_level="NO_BREAK"/>
+  <word text="Background" lemma="background" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224298.005" break_level="PARAGRAPH_BREAK"/>
+  <word text="Primary" break_level="LINE_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="syndrome" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="NO_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="systemic" lemma="systemic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296619.003" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="LINE_BREAK"/>
+  <word text="disorder" break_level="SPACE_BREAK"/>
+  <word text="characterized" lemma="characterize" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232135.002" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="dry" lemma="dry" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242243.001" break_level="SPACE_BREAK"/>
+  <word text="eyes" lemma="eye" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245832.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="keratoconjunctivitis" break_level="NO_BREAK"/>
+  <word text="sicca" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="dry" lemma="dry" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242243.001" break_level="SPACE_BREAK"/>
+  <word text="mouth" lemma="mouth" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269553.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="xerostomia" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="well" break_level="LINE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="involvement" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="other" break_level="SPACE_BREAK"/>
+  <word text="exocrine" break_level="SPACE_BREAK"/>
+  <word text="glands" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="While" break_level="SENTENCE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="typically" break_level="LINE_BREAK"/>
+  <word text="considered" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="SPACE_BREAK"/>
+  <word text="exocrinopathy" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="immune" break_level="LINE_BREAK"/>
+  <word text="destruction" break_level="SPACE_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="often" break_level="SPACE_BREAK"/>
+  <word text="extend" lemma="extend" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245717.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="affect" lemma="affect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220230.001" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="organs" lemma="organ" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273871.003" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Around" lemma="around" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223011.018" break_level="SENTENCE_BREAK"/>
+  <word text="25" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
+  <word text="present" lemma="present" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280476.009" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="involvement" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="organs" lemma="organ" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273871.003" break_level="SPACE_BREAK"/>
+  <word text="such" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="thyroid" lemma="thyroid" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298685.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="central" break_level="SPACE_BREAK"/>
+  <word text="nervous" lemma="nervous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271040.004" break_level="LINE_BREAK"/>
+  <word text="system" lemma="system" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296611.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="lungs" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="kidney" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="LINE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="suggested" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="40" break_level="SPACE_BREAK"/>
+  <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="SPACE_BREAK"/>
+  <word text="ago" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="While" break_level="SENTENCE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="involvement" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="considered" break_level="SPACE_BREAK"/>
+  <word text="``" break_level="LINE_BREAK"/>
+  <word text="rare" lemma="rare" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283042.001" break_level="NO_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="few" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="specifically" break_level="SPACE_BREAK"/>
+  <word text="address" lemma="address" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219905.012" break_level="LINE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="complication" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="evaluate" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="LINE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="severity" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="LINE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SENTENCE_BREAK"/>
+  <word text="diseases" break_level="SPACE_BREAK"/>
+  <word text="associated" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="include" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.001" break_level="SPACE_BREAK"/>
+  <word text="primary" lemma="primary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280681.005" break_level="SPACE_BREAK"/>
+  <word text="biliary" break_level="LINE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="PBC" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="autoimmune" break_level="NO_BREAK"/>
+  <word text="cholangitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="8" break_level="SPACE_BREAK"/>
+  <word text="9" break_level="SPACE_BREAK"/>
+  <word text="10" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="LINE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="viral" lemma="viral" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304354.001" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="B" lemma="B" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224168.001" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="C" lemma="C" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229851.001" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="11" break_level="LINE_BREAK"/>
+  <word text="12" break_level="SPACE_BREAK"/>
+  <word text="13" break_level="SPACE_BREAK"/>
+  <word text="14" break_level="SPACE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text="16" break_level="SPACE_BREAK"/>
+  <word text="17" break_level="SPACE_BREAK"/>
+  <word text="18" break_level="SPACE_BREAK"/>
+  <word text="19" break_level="SPACE_BREAK"/>
+  <word text="20" break_level="SPACE_BREAK"/>
+  <word text="21" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="sclerosing" break_level="SPACE_BREAK"/>
+  <word text="cholangitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="22" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="nodular" break_level="SPACE_BREAK"/>
+  <word text="regenerative" break_level="SPACE_BREAK"/>
+  <word text="hyperplasia" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="23" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="addition" lemma="addition" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219896.001" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="chronic" break_level="SPACE_BREAK"/>
+  <word text="lymphocytic" break_level="SPACE_BREAK"/>
+  <word text="sialadenitis" break_level="SPACE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="different" break_level="SPACE_BREAK"/>
+  <word text="types" lemma="type" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301323.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="16" break_level="SPACE_BREAK"/>
+  <word text="17" break_level="SPACE_BREAK"/>
+  <word text="18" break_level="LINE_BREAK"/>
+  <word text="19" break_level="SPACE_BREAK"/>
+  <word text="20" break_level="SPACE_BREAK"/>
+  <word text="21" break_level="SPACE_BREAK"/>
+  <word text="22" break_level="SPACE_BREAK"/>
+  <word text="23" break_level="SPACE_BREAK"/>
+  <word text="24" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="We" break_level="SENTENCE_BREAK"/>
+  <word text="report" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="review" lemma="review" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284795.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="cases" break_level="SPACE_BREAK"/>
+  <word text="undertaken" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="determine" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="LFTs" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="referred" lemma="refer" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283794.004" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="LINE_BREAK"/>
+  <word text="tertiary" lemma="tertiary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297928.001" break_level="SPACE_BREAK"/>
+  <word text="care" lemma="care" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230840.001" break_level="SPACE_BREAK"/>
+  <word text="center" lemma="center" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231656.009" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="LINE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="systemic" lemma="systemic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296619.003" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="autoimmunity" break_level="SPACE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="LINE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS." break_level="NO_BREAK"/>
+  <word text="Methods" break_level="LINE_BREAK"/>
+  <word text="Statistical" break_level="LINE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="The" break_level="LINE_BREAK"/>
+  <word text="statistical" break_level="SPACE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="included" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.002" break_level="SPACE_BREAK"/>
+  <word text="descriptive" lemma="descriptive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239685.001" break_level="SPACE_BREAK"/>
+  <word text="measures" lemma="measure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.022" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="means" lemma="mean" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266765.001" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="standard" lemma="standard" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293805.016" break_level="SPACE_BREAK"/>
+  <word text="deviations" lemma="deviation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239911.002" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="ranges" lemma="range" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.001" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Comparison" lemma="comparison" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234903.001" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="without" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="done" break_level="LINE_BREAK"/>
+  <word text="using" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
+  <word text="t" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="continuous" lemma="continuous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235662.001" break_level="SPACE_BREAK"/>
+  <word text="variables" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Fisher" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="exact" break_level="LINE_BREAK"/>
+  <word text="test" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="x2" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="categoric" break_level="SPACE_BREAK"/>
+  <word text="measures" lemma="measure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.022" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Results" break_level="SENTENCE_BREAK"/>
+  <word text="Of" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="115" break_level="SPACE_BREAK"/>
+  <word text="charts" break_level="SPACE_BREAK"/>
+  <word text="reviewed" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="73" break_level="SPACE_BREAK"/>
+  <word text="cases" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="55" break_level="NO_BREAK"/>
+  <word text="women" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="18" break_level="SPACE_BREAK"/>
+  <word text="men" lemma="man" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265688.001" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="median" lemma="median" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266867.001" break_level="SPACE_BREAK"/>
+  <word text="age" lemma="age" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220381.001" break_level="SPACE_BREAK"/>
+  <word text="53" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="fulfilled" lemma="fulfill" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249418.004" break_level="SPACE_BREAK"/>
+  <word text="EECC" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="initially" break_level="LINE_BREAK"/>
+  <word text="included" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.002" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Of" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="73" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="54" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="LINE_BREAK"/>
+  <word text="them" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="40" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="gland" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="biopsy" break_level="SPACE_BREAK"/>
+  <word text="performed" lemma="perform" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276921.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="biopsy" break_level="SPACE_BREAK"/>
+  <word text="confirmed" lemma="confirm" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235273.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="diagnosis" lemma="diagnosis" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240058.001" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="syndrome" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="All" break_level="SENTENCE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="studied" lemma="study" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.015" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="objective" lemma="objective" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272644.001" break_level="LINE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="including" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.001" break_level="SPACE_BREAK"/>
+  <word text="keratoconjunctivitis" break_level="SPACE_BREAK"/>
+  <word text="sicca" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="SPACE_BREAK"/>
+  <word text="labial" lemma="labial" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261693.001" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="gland" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="biopsy" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="autoantibodies" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="gland" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="hypofunction" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="We" break_level="SENTENCE_BREAK"/>
+  <word text="excluded" break_level="LINE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="without" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="objective" lemma="objective" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272644.001" break_level="SPACE_BREAK"/>
+  <word text="criteria" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="LINE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="who" break_level="SPACE_BREAK"/>
+  <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="fulfill" lemma="fulfill" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249418.004" break_level="SPACE_BREAK"/>
+  <word text="EECC" break_level="SPACE_BREAK"/>
+  <word text="criteria" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="mean" break_level="SPACE_BREAK"/>
+  <word text="age" lemma="age" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220381.001" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.023" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="onset" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="45" break_level="SPACE_BREAK"/>
+  <word text="±" break_level="SPACE_BREAK"/>
+  <word text="20.5" break_level="SPACE_BREAK"/>
+  <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="LINE_BREAK"/>
+  <word text="old" lemma="old" pos="PRT" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273160.009" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="duration" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="4.9" break_level="SPACE_BREAK"/>
+  <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="SPACE_BREAK"/>
+  <word text="±" break_level="SPACE_BREAK"/>
+  <word text="4.5" break_level="SPACE_BREAK"/>
+  <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="mean" break_level="NO_BREAK"/>
+  <word text="±" break_level="SPACE_BREAK"/>
+  <word text="range" lemma="range" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.001" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SENTENCE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="determined" lemma="determine" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239831.003" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="59" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="80.8" break_level="NO_BREAK"/>
+  <word text="%" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="29" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="59" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="49.1" break_level="NO_BREAK"/>
+  <word text="%" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Further" lemma="further" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249623.011" break_level="SENTENCE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="then" lemma="then" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298166.002" break_level="SPACE_BREAK"/>
+  <word text="undertaken" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="whom" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="measured" lemma="measure" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="laboratory" break_level="SPACE_BREAK"/>
+  <word text="characteristics" lemma="characteristic" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232132.002" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="shown" lemma="show" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290298.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Tables" lemma="table" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296660.006" break_level="SPACE_BREAK"/>
+  <word text="2and" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="For" break_level="SENTENCE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="studied" lemma="study" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.015" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="common" lemma="common" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234788.001" break_level="LINE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="any" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="potential" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="SS." break_level="LINE_BREAK"/>
+  <word text="Clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="defined" lemma="define" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239033.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="methods" break_level="SPACE_BREAK"/>
+  <word text="section" lemma="section" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288470.001" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="12" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="20.3" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="whom" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Two" break_level="SENTENCE_BREAK"/>
+  <word text="deaths" break_level="SPACE_BREAK"/>
+  <word text="occurred" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="population" break_level="LINE_BREAK"/>
+  <word text="studied" lemma="study" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.015" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="attributed" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="liver" break_level="SPACE_BREAK"/>
+  <word text="failure" lemma="failure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246019.007" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="An" break_level="SENTENCE_BREAK"/>
+  <word text="additional" break_level="LINE_BREAK"/>
+  <word text="patient" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="required" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="transplant" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.001" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="diagnosis" lemma="diagnosis" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240058.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="antedated" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="onset" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="its" break_level="SPACE_BREAK"/>
+  <word text="diagnosis" lemma="diagnosis" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240058.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="viral" lemma="viral" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304354.001" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="sought" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="39" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Two" break_level="SENTENCE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="carried" lemma="carry" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231021.001" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="surface" lemma="surface" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296000.001" break_level="SPACE_BREAK"/>
+  <word text="antigen" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="B" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="LINE_BREAK"/>
+  <word text="antibodies" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="C" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="biopsy" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="patient" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="LINE_BREAK"/>
+  <word text="who" break_level="SPACE_BREAK"/>
+  <word text="lacked" break_level="SPACE_BREAK"/>
+  <word text="serological" break_level="SPACE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="viruses" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="B" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="detected" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="LINE_BREAK"/>
+  <word text="situ" break_level="SPACE_BREAK"/>
+  <word text="hybridization" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Risk" break_level="SENTENCE_BREAK"/>
+  <word text="factors" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="identified" lemma="identify" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256926.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="40" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="described" lemma="describe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239683.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Table" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="No" break_level="SENTENCE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="tobacco" lemma="tobacco" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299141.002" break_level="SPACE_BREAK"/>
+  <word text="use" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SENTENCE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="documented" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="tobacco" lemma="tobacco" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299141.002" break_level="SPACE_BREAK"/>
+  <word text="consumption" lemma="consumption" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235575.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="We" break_level="SENTENCE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="no" break_level="SPACE_BREAK"/>
+  <word text="significant" lemma="significant" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290641.001" break_level="SPACE_BREAK"/>
+  <word text="differences" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="risk" break_level="SPACE_BREAK"/>
+  <word text="factors" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.001" break_level="LINE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="among" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="without" break_level="SPACE_BREAK"/>
+  <word text="hepatic" break_level="SPACE_BREAK"/>
+  <word text="involvement" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Therefore" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="60" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="sub" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="LINE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="no" break_level="SPACE_BREAK"/>
+  <word text="clear" lemma="clear" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233608.001" break_level="SPACE_BREAK"/>
+  <word text="explanation" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="except" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS." break_level="NO_BREAK"/>
+  <word text="The" break_level="LINE_BREAK"/>
+  <word text="pattern" lemma="pattern" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276140.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="biochemical" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="mainly" break_level="LINE_BREAK"/>
+  <word text="hepatocellular" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="defined" lemma="define" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239033.001" break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="predominant" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="AST" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="ALT" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="comparison" lemma="comparison" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234903.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="AP" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="bilirubins" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="11" break_level="LINE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="cholestatic" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="defined" lemma="define" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239033.001" break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="predominant" break_level="SPACE_BREAK"/>
+  <word text="increase" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="AP" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="bilirubins" break_level="SPACE_BREAK"/>
+  <word text="compared" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="AST" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="ALT" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="mixed" break_level="LINE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="cholestatic" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="hepatocellular" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="LINE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="8" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Abnormalities" break_level="SENTENCE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="persistent" lemma="persistent" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277138.003" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="present" lemma="present" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280475.001" break_level="NO_BREAK"/>
+  <word text="on" break_level="LINE_BREAK"/>
+  <word text="every" break_level="SPACE_BREAK"/>
+  <word text="occasion" lemma="occasion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272757.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="measured" lemma="measure" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.001" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="once" lemma="once" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273373.001" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="19" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="LINE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="65.5" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="intermittent" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="presence" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="LFT" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="determinations" lemma="determination" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239829.002" break_level="LINE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="9" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="31" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="case" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="3.5" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="was" break_level="SPACE_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="LINE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="determination" lemma="determination" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239829.002" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="pattern" lemma="pattern" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276140.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="enzyme" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="shown" lemma="show" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290298.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Figure" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.010" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="None" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="LINE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="muscle" lemma="muscle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270003.001" break_level="SPACE_BREAK"/>
+  <word text="involvement" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="explain" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="high" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="levels" lemma="level" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263147.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="amino" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="transferases" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Activity" lemma="activity" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219809.006" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="CPK" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="aldolase" break_level="LINE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="elevated" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="measured" lemma="measure" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="29" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Anti-mitochondrial" break_level="SENTENCE_BREAK"/>
+  <word text="antibodies" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="AMA" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="anti-smooth" break_level="SPACE_BREAK"/>
+  <word text="muscle" lemma="muscle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270003.001" break_level="SPACE_BREAK"/>
+  <word text="antibodies" break_level="LINE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="ASMA" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="sought" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="SPACE_BREAK"/>
+  <word text="ASMA" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="other" break_level="LINE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="shown" lemma="show" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290298.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Figure" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.010" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SENTENCE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="likely" lemma="likely" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263478.001" break_level="LINE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="lung" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="kidney" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="hematological" break_level="SPACE_BREAK"/>
+  <word text="manifestations" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="compared" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="without" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="LINE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Presence" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="LINE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="influenced" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="diseases" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Regarding" break_level="SENTENCE_BREAK"/>
+  <word text="laboratory" break_level="SPACE_BREAK"/>
+  <word text="test" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="likely" lemma="likely" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263478.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="elevated" break_level="SPACE_BREAK"/>
+  <word text="sedimentation" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="LINE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="some" break_level="SPACE_BREAK"/>
+  <word text="point" lemma="point" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279055.011" break_level="SPACE_BREAK"/>
+  <word text="during" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="course" lemma="course" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236587.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="their" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="A" break_level="SENTENCE_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="LINE_BREAK"/>
+  <word text="anti-ENA" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="anti-Ro" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="anti-Ro" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="La" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="anti-RNP" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="associated" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="increased" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="Figure" lemma="figure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246988.010" break_level="NO_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="sample" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="too" lemma="too" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299350.001" break_level="LINE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="determine" break_level="SPACE_BREAK"/>
+  <word text="whether" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="specific" lemma="specific" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292910.001" break_level="SPACE_BREAK"/>
+  <word text="ENA" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="associated" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SENTENCE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="systemic" lemma="systemic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296619.003" break_level="SPACE_BREAK"/>
+  <word text="inflammation" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="autoimmunity" break_level="SPACE_BREAK"/>
+  <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="correlate" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="presence" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="absence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="LFT" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SENTENCE_BREAK"/>
+  <word text="biopsies" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="done" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="8" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="disclosed" break_level="SPACE_BREAK"/>
+  <word text="post-viral" break_level="SPACE_BREAK"/>
+  <word text="chronic" break_level="LINE_BREAK"/>
+  <word text="active" lemma="active" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219797.008" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="cryptogenic" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="LINE_BREAK"/>
+  <word text="one" break_level="SPACE_BREAK"/>
+  <word text="case" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="each" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="post-viral" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="alcoholic" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Discussion" break_level="SENTENCE_BREAK"/>
+  <word text="In" break_level="LINE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="group" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="seen" break_level="SPACE_BREAK"/>
+  <word text="at" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="tertiary" lemma="tertiary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297928.001" break_level="SPACE_BREAK"/>
+  <word text="care" lemma="care" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230840.001" break_level="LINE_BREAK"/>
+  <word text="center" lemma="center" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231656.009" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="LINE_BREAK"/>
+  <word text="common" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="feature" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS." break_level="NO_BREAK"/>
+  <word text="The" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="LINE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="higher" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="LINE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="previous" lemma="previous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280608.001" break_level="SPACE_BREAK"/>
+  <word text="series" lemma="series" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289250.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="true" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="LINE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="even" break_level="SPACE_BREAK"/>
+  <word text="higher" lemma="high" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254840.009" break_level="SPACE_BREAK"/>
+  <word text="since" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="enzyme" break_level="SPACE_BREAK"/>
+  <word text="profiles" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="done" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="suggested" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="previous" lemma="previous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280608.001" break_level="LINE_BREAK"/>
+  <word text="reports" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="ranges" lemma="range" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.026" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="58" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="but" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="definition" lemma="definition" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239042.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="LINE_BREAK"/>
+  <word text="hepatic" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="varies" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="unspecific" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="e.g." break_level="NO_BREAK"/>
+  <word text="hepatomegaly" break_level="LINE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="well" break_level="SPACE_BREAK"/>
+  <word text="proven" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="LINE_BREAK"/>
+  <word text="5" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text="28" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Denko" break_level="SENTENCE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text="reported" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="12" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="LINE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="hepatosplenomegaly" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="29" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Other" break_level="SENTENCE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="done" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="1960" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="confirmed" lemma="confirm" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235273.001" break_level="SPACE_BREAK"/>
+  <word text="hepatomegaly" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="18" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="20" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="30" break_level="SPACE_BREAK"/>
+  <word text="31" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="1970" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Whaley" break_level="SPACE_BREAK"/>
+  <word text="reported" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="6" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="mentioned" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="anti-mitochondrial" break_level="SPACE_BREAK"/>
+  <word text="antibodies" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="2" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="1986" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Tsianos" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="co-workers" break_level="SPACE_BREAK"/>
+  <word text="described" lemma="describe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239683.001" break_level="SPACE_BREAK"/>
+  <word text="22" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="gastrointestinal" break_level="LINE_BREAK"/>
+  <word text="complications" lemma="complication" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234977.003" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="called" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="large" lemma="large" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262244.001" break_level="SPACE_BREAK"/>
+  <word text="cohort" lemma="cohort" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234301.002" break_level="SPACE_BREAK"/>
+  <word text=";" break_level="NO_BREAK"/>
+  <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="LINE_BREAK"/>
+  <word text="two" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="liver" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="each" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="chronic" break_level="SPACE_BREAK"/>
+  <word text="active" lemma="active" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219797.008" break_level="LINE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Other" break_level="SENTENCE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="reported" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
+  <word text="variable" lemma="variable" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303557.001" break_level="LINE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="3" break_level="SPACE_BREAK"/>
+  <word text="28" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="different" lemma="different" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240277.001" break_level="SPACE_BREAK"/>
+  <word text="histopathological" break_level="LINE_BREAK"/>
+  <word text="findings" lemma="finding" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247111.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="biopsies" break_level="SPACE_BREAK"/>
+  <word text="ranging" lemma="range" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.026" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="cholestatic" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="stage" lemma="stage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293716.001" break_level="NO_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="primary" lemma="primary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280681.005" break_level="SPACE_BREAK"/>
+  <word text="biliary" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="LINE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="chronic" break_level="SPACE_BREAK"/>
+  <word text="active" lemma="active" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219797.008" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="due" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="C" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="associated" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="other" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="LINE_BREAK"/>
+  <word text="manifestations" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="specifically" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="affecting" lemma="affect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220230.001" break_level="LINE_BREAK"/>
+  <word text="lung" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="kidney" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="blood" lemma="blood" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227219.001" break_level="SPACE_BREAK"/>
+  <word text="cells" lemma="cell" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231582.004" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Those" break_level="SENTENCE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="serological" break_level="LINE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="systemic" lemma="systemic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296619.003" break_level="SPACE_BREAK"/>
+  <word text="inflammation" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="shown" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="LINE_BREAK"/>
+  <word text="elevated" break_level="SPACE_BREAK"/>
+  <word text="sedimentation" break_level="SPACE_BREAK"/>
+  <word text="rate" lemma="rate" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283088.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="more" lemma="more" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269205.004" break_level="SPACE_BREAK"/>
+  <word text="likely" lemma="likely" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263478.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="have" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="LINE_BREAK"/>
+  <word text="test" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Also" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="presence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="SPACE_BREAK"/>
+  <word text="anti-ENA" break_level="LINE_BREAK"/>
+  <word text="correlated" break_level="SPACE_BREAK"/>
+  <word text="positively" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="hepatic" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="An" break_level="SENTENCE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="ENA" break_level="SPACE_BREAK"/>
+  <word text="response" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="described" lemma="describe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239683.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="children" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="where" break_level="SPACE_BREAK"/>
+  <word text="anti-ENA" break_level="LINE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="demonstrated" lemma="demonstrate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239358.001" break_level="SPACE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="severe" lemma="severe" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289436.001" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="test" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="LINE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="who" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="anti-ENA" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="negative" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="32" break_level="LINE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="another" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text="%" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="various" break_level="SPACE_BREAK"/>
+  <word text="chronic" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="diseases" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="anti-RNP" break_level="SPACE_BREAK"/>
+  <word text="positive" lemma="positive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279713.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="33" break_level="LINE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="With" break_level="SENTENCE_BREAK"/>
+  <word text="etiopathogenesis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="still" lemma="still" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294414.007" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="open" lemma="open" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273535.032" break_level="SPACE_BREAK"/>
+  <word text="question" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="34" break_level="LINE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="possible" break_level="SPACE_BREAK"/>
+  <word text="role" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="C" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="drawn" lemma="draw" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241991.023" break_level="SPACE_BREAK"/>
+  <word text="attention" lemma="attention" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223673.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Recent" lemma="recent" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283413.001" break_level="SENTENCE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="mentioned" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="incidence" lemma="incidence" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257504.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1SS" break_level="SPACE_BREAK"/>
+  <word text="ranging" lemma="range" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282974.026" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="14" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="19" break_level="NO_BREAK"/>
+  <word text="%" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="11" break_level="SPACE_BREAK"/>
+  <word text="12" break_level="SPACE_BREAK"/>
+  <word text="16" break_level="SPACE_BREAK"/>
+  <word text="18" break_level="SPACE_BREAK"/>
+  <word text="21" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Phenotypic" break_level="SENTENCE_BREAK"/>
+  <word text="characterization" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="minor" lemma="minor" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268199.001" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="glands" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="LINE_BREAK"/>
+  <word text="immunohistochemistry" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="C" break_level="SPACE_BREAK"/>
+  <word text="virus" lemma="virus" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304413.001" break_level="LINE_BREAK"/>
+  <word text="infection" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="/" break_level="NO_BREAK"/>
+  <word text="or" break_level="NO_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="given" break_level="SPACE_BREAK"/>
+  <word text="conflicting" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="14" break_level="LINE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="Some" break_level="SPACE_BREAK"/>
+  <word text="reports" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
+  <word text="mention" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="gland" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="findings" lemma="finding" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247111.001" break_level="LINE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="strikingly" break_level="SPACE_BREAK"/>
+  <word text="similar" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="associated" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="infection" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="those" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="LINE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="12" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="while" break_level="SPACE_BREAK"/>
+  <word text="others" break_level="SPACE_BREAK"/>
+  <word text="mention" break_level="SPACE_BREAK"/>
+  <word text="distinctive" break_level="SPACE_BREAK"/>
+  <word text="differences" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="LINE_BREAK"/>
+  <word text="both" break_level="SPACE_BREAK"/>
+  <word text="groups" break_level="SPACE_BREAK"/>
+  <word text="regarding" break_level="SPACE_BREAK"/>
+  <word text="focus" break_level="SPACE_BREAK"/>
+  <word text="score" lemma="score" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287919.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="expression" lemma="expression" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245687.009" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="surface" lemma="surface" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296000.001" break_level="LINE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="lymphocytes" break_level="SPACE_BREAK"/>
+  <word text="infiltrating" lemma="infiltrate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257967.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="glands" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="epithelial" break_level="SPACE_BREAK"/>
+  <word text="cells" lemma="cell" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231582.004" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="well" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="differences" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="degree" lemma="degree" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239101.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="inflammation" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="14" break_level="SPACE_BREAK"/>
+  <word text="15" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Transgenic" break_level="SENTENCE_BREAK"/>
+  <word text="mice" lemma="mouse" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269530.001" break_level="SPACE_BREAK"/>
+  <word text="models" break_level="LINE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="carry" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="envelope" lemma="envelope" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244393.002" break_level="SPACE_BREAK"/>
+  <word text="genes" break_level="SPACE_BREAK"/>
+  <word text="develop" lemma="develop" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239896.009" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="exocrinopathy" break_level="LINE_BREAK"/>
+  <word text="affecting" lemma="affect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220230.001" break_level="SPACE_BREAK"/>
+  <word text="salivary" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="lachrymal" break_level="SPACE_BREAK"/>
+  <word text="glands" lemma="gland" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250998.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="19" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="LINE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Expression" lemma="expression" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245687.009" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="autoimmunity" break_level="SPACE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="also" break_level="SPACE_BREAK"/>
+  <word text="tends" lemma="tend" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297701.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="differ" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="LINE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="infection" break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS." break_level="NO_BREAK"/>
+  <word text="Positive" break_level="SPACE_BREAK"/>
+  <word text="ENAs" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="rarely" lemma="rarely" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283051.001" break_level="SPACE_BREAK"/>
+  <word text="seen" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="NO_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Also" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="most" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="sicca" break_level="SPACE_BREAK"/>
+  <word text="symptoms" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="not" break_level="SPACE_BREAK"/>
+  <word text="present" lemma="present" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280475.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="individuals" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="compared" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="population" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Although" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="viral" lemma="viral" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304354.001" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="LINE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="group" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="very" break_level="SPACE_BREAK"/>
+  <word text="low" lemma="low" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264526.010" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="account" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="most" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="markers" lemma="marker" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266135.001" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="sought" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="small" break_level="SPACE_BREAK"/>
+  <word text="percentage" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="It" break_level="SENTENCE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="LINE_BREAK"/>
+  <word text="important" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="note" lemma="note" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272172.013" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="HCV" break_level="SPACE_BREAK"/>
+  <word text="appears" lemma="appear" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222474.008" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="account" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="subgroup" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="exocrine" break_level="SPACE_BREAK"/>
+  <word text="complaints" lemma="complaint" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234944.005" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="half" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="SPACE_BREAK"/>
+  <word text="meet" lemma="meet" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266934.011" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="definition" lemma="definition" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239042.001" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="according" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="European" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="Manthorpe" break_level="SPACE_BREAK"/>
+  <word text="criteria" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="However" lemma="however" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256065.001" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="subgroup" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="characterized" break_level="LINE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="absence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="manifestations" break_level="SPACE_BREAK"/>
+  <word text="observed" lemma="observe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272707.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="absence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="anti-Ro" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="anti-La" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="35" break_level="LINE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="An" break_level="SENTENCE_BREAK"/>
+  <word text="aberrant" break_level="SPACE_BREAK"/>
+  <word text="interaction" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="SPACE_BREAK"/>
+  <word text="lymphocytes" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="different" break_level="LINE_BREAK"/>
+  <word text="epithelial" break_level="SPACE_BREAK"/>
+  <word text="tissues" lemma="tissue" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299037.001" break_level="SPACE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" break_level="SPACE_BREAK"/>
+  <word text="proposed" lemma="propose" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281190.001" break_level="SPACE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="mechanism" lemma="mechanism" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266821.002" break_level="LINE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="SPACE_BREAK"/>
+  <word text="seen" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="different" lemma="different" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240277.001" break_level="SPACE_BREAK"/>
+  <word text="organs" lemma="organ" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273871.003" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="36" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Since" break_level="SENTENCE_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="suggested" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="target" break_level="SPACE_BREAK"/>
+  <word text="tissue" lemma="tissue" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299037.001" break_level="SPACE_BREAK"/>
+  <word text="involved" lemma="involve" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258942.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="SPACE_BREAK"/>
+  <word text="histopathologic" break_level="SPACE_BREAK"/>
+  <word text="lesions" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="LINE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="epithelium" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="37" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="," break_level="SPACE_BREAK"/>
+  <word text="it" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="interesting" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="findings" lemma="finding" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247111.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="point" lemma="point" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279055.057" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="pulmonary" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="renal" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="LINE_BREAK"/>
+  <word text="characterized" lemma="characterize" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232135.001" break_level="SPACE_BREAK"/>
+  <word text="by" break_level="SPACE_BREAK"/>
+  <word text="epithelial" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="38" break_level="SPACE_BREAK"/>
+  <word text="39" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Epithelial" break_level="SENTENCE_BREAK"/>
+  <word text="cells" lemma="cell" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231582.004" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="proposed" lemma="propose" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281190.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="active" lemma="active" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219797.008" break_level="SPACE_BREAK"/>
+  <word text="participants" break_level="LINE_BREAK"/>
+  <word text="rather" lemma="rather" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283099.004" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="passive" lemma="passive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275956.001" break_level="SPACE_BREAK"/>
+  <word text="targets" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="chronic" break_level="SPACE_BREAK"/>
+  <word text="immune" break_level="LINE_BREAK"/>
+  <word text="response" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="but" break_level="SPACE_BREAK"/>
+  <word text="further" lemma="further" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249623.011" break_level="SPACE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="needed" lemma="need" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270832.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="establish" break_level="LINE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="role" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" break_level="SPACE_BREAK"/>
+  <word text="epithelial" break_level="SPACE_BREAK"/>
+  <word text="cells" lemma="cell" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231582.004" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="pathogenesis" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="hepatic" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="including" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.001" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="HLA" break_level="SPACE_BREAK"/>
+  <word text="expression" lemma="expression" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245687.009" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="cytokine" break_level="SPACE_BREAK"/>
+  <word text="secretion" break_level="SPACE_BREAK"/>
+  <word text="pattern" lemma="pattern" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276140.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="these" break_level="SPACE_BREAK"/>
+  <word text="cells" lemma="cell" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231582.004" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="The" break_level="SENTENCE_BREAK"/>
+  <word text="co-existence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="presence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="circulating" break_level="LINE_BREAK"/>
+  <word text="AMAs" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="sera" break_level="SPACE_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="pointed" lemma="point" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279055.057" break_level="LINE_BREAK"/>
+  <word text="as" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="indicator" lemma="indicator" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257735.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="pathology" break_level="SPACE_BREAK"/>
+  <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="similar" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="primary" lemma="primary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280681.005" break_level="SPACE_BREAK"/>
+  <word text="biliary" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="4" break_level="SPACE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text="8" break_level="SPACE_BREAK"/>
+  <word text="10" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="previous" lemma="previous" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280608.001" break_level="SPACE_BREAK"/>
+  <word text="studies" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="pericholangial" break_level="SPACE_BREAK"/>
+  <word text="lymphocytic" break_level="LINE_BREAK"/>
+  <word text="infiltration" break_level="SPACE_BREAK"/>
+  <word text="similar" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="stage" lemma="stage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293716.001" break_level="SPACE_BREAK"/>
+  <word text="I" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="LINE_BREAK"/>
+  <word text="primary" lemma="primary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280681.005" break_level="SPACE_BREAK"/>
+  <word text="biliary" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="reported" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="with" break_level="LINE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="positivity" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="AMA" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="4" break_level="LINE_BREAK"/>
+  <word text="7" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="In" break_level="SENTENCE_BREAK"/>
+  <word text="our" break_level="SPACE_BREAK"/>
+  <word text="review" lemma="review" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284795.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="predominance" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="hepatocellular" break_level="LINE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="SPACE_BREAK"/>
+  <word text="rather" lemma="rather" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283099.004" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="cholestatic" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="would" lemma="would" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307187.002" break_level="SPACE_BREAK"/>
+  <word text="argue" lemma="argue" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222864.001" break_level="SPACE_BREAK"/>
+  <word text="against" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="PBC" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="type" break_level="NO_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="damage" lemma="damage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238221.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SENTENCE_BREAK"/>
+  <word text="authors" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="proposed" lemma="propose" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281190.001" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="associated" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="PBC" break_level="LINE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="considered" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="form" lemma="form" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248515.011" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="secondary" lemma="secondary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288379.001" break_level="SPACE_BREAK"/>
+  <word text="SS" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="resembles" break_level="LINE_BREAK"/>
+  <word text="more" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="``" break_level="SPACE_BREAK"/>
+  <word text="sicca" break_level="NO_BREAK"/>
+  <word text="complex" lemma="complex" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234966.009" break_level="SPACE_BREAK"/>
+  <word text="&#39;&#39;" break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="exocrine" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="seen" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="LINE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="rheumatoid" break_level="SPACE_BREAK"/>
+  <word text="arthritis" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="40" break_level="SPACE_BREAK"/>
+  <word text="41" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="SPACE_BREAK"/>
+  <word text="." break_level="SPACE_BREAK"/>
+  <word text="Limitations" lemma="limitation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263541.001" break_level="SENTENCE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="come" break_level="SPACE_BREAK"/>
+  <word text="primarily" break_level="SPACE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="retrospective" break_level="LINE_BREAK"/>
+  <word text="analysis" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Since" break_level="SENTENCE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="studied" lemma="study" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.015" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="LINE_BREAK"/>
+  <word text="tertiary" lemma="tertiary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297928.001" break_level="SPACE_BREAK"/>
+  <word text="care" lemma="care" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230840.001" break_level="SPACE_BREAK"/>
+  <word text="referral" break_level="SPACE_BREAK"/>
+  <word text="center" lemma="center" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231656.009" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="severity" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="manifestations" break_level="SPACE_BREAK"/>
+  <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="different" break_level="LINE_BREAK"/>
+  <word text="from" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="general" lemma="general" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250413.001" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="population" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Furthermore" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="many" break_level="LINE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="Sjögren" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="syndrome" break_level="SPACE_BREAK"/>
+  <word text="diagnosis" lemma="diagnosis" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240058.001" break_level="SPACE_BREAK"/>
+  <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="sought" break_level="SPACE_BREAK"/>
+  <word text="because" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="otherwise" lemma="otherwise" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274203.003" break_level="SPACE_BREAK"/>
+  <word text="unexplained" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="features" lemma="feature" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246503.001" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="While" break_level="SENTENCE_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="find" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="association" lemma="association" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1223399.006" break_level="SPACE_BREAK"/>
+  <word text="between" break_level="SPACE_BREAK"/>
+  <word text="use" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="NSAIDS" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.001" break_level="SPACE_BREAK"/>
+  <word text="medications" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="prevalence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="LINE_BREAK"/>
+  <word text="tests" lemma="test" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297943.001" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="design" lemma="design" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239718.001" break_level="SPACE_BREAK"/>
+  <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="allow" break_level="LINE_BREAK"/>
+  <word text="us" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="exclude" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="possibility" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="over-the" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="counter" lemma="counter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236463.001" break_level="NO_BREAK"/>
+  <word text="(" break_level="LINE_BREAK"/>
+  <word text="OTC" break_level="NO_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="medication" break_level="SPACE_BREAK"/>
+  <word text="use" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
+  <word text="affected" lemma="affect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220230.001" break_level="SPACE_BREAK"/>
+  <word text="LFT" break_level="SPACE_BREAK"/>
+  <word text="&#39;s" break_level="NO_BREAK"/>
+  <word text="measurement" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Drug" break_level="SENTENCE_BREAK"/>
+  <word text="toxicity" break_level="SPACE_BREAK"/>
+  <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="certainly" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="important" break_level="SPACE_BREAK"/>
+  <word text="factor" lemma="factor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245963.001" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="LINE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="considered" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="However" lemma="however" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256065.001" break_level="SENTENCE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="given" lemma="given" pos="ADP" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250954.006" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="most" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="had" break_level="SPACE_BREAK"/>
+  <word text="persistent" lemma="persistent" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277138.003" break_level="LINE_BREAK"/>
+  <word text="rather" lemma="rather" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283099.004" break_level="SPACE_BREAK"/>
+  <word text="than" break_level="SPACE_BREAK"/>
+  <word text="intermittent" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="LFTs" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="LINE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="use" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="hepatotoxic" break_level="SPACE_BREAK"/>
+  <word text="drugs" break_level="SPACE_BREAK"/>
+  <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="elicited" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="LINE_BREAK"/>
+  <word text="majority" lemma="majority" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265468.001" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="patients" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="abnormalities" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="a" break_level="SPACE_BREAK"/>
+  <word text="toxic" lemma="toxic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299684.001" break_level="SPACE_BREAK"/>
+  <word text="effect" lemma="effect" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243233.001" break_level="LINE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="medications" break_level="SPACE_BREAK"/>
+  <word text="could" break_level="SPACE_BREAK"/>
+  <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="established" lemma="establish" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244934.007" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Conclusions" break_level="SENTENCE_BREAK"/>
+  <word text="Based" lemma="base" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225073.025" break_level="LINE_BREAK"/>
+  <word text="on" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="results" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="this" break_level="SPACE_BREAK"/>
+  <word text="study" lemma="study" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295106.005" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="we" break_level="SPACE_BREAK"/>
+  <word text="consider" break_level="SPACE_BREAK"/>
+  <word text="that" break_level="SPACE_BREAK"/>
+  <word text="an" break_level="SPACE_BREAK"/>
+  <word text="evaluation" break_level="LINE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="SPACE_BREAK"/>
+  <word text="and" break_level="SPACE_BREAK"/>
+  <word text="serological" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="should" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="done" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="every" break_level="SPACE_BREAK"/>
+  <word text="patient" lemma="patient" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276087.003" break_level="SPACE_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="particularly" lemma="particularly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275820.001" break_level="LINE_BREAK"/>
+  <word text="if" break_level="SPACE_BREAK"/>
+  <word text="there" break_level="SPACE_BREAK"/>
+  <word text="is" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="other" break_level="SPACE_BREAK"/>
+  <word text="non-exocrine" break_level="SPACE_BREAK"/>
+  <word text="complications" lemma="complication" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234977.003" break_level="LINE_BREAK"/>
+  <word text="or" break_level="SPACE_BREAK"/>
+  <word text="serological" break_level="SPACE_BREAK"/>
+  <word text="evidence" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="systemic" lemma="systemic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296619.003" break_level="SPACE_BREAK"/>
+  <word text="inflammation" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Although" break_level="SENTENCE_BREAK"/>
+  <word text="no" break_level="SPACE_BREAK"/>
+  <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.004" break_level="SPACE_BREAK"/>
+  <word text="diagnosis" lemma="diagnosis" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240058.001" break_level="SPACE_BREAK"/>
+  <word text="explaining" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="disease" break_level="LINE_BREAK"/>
+  <word text="may" lemma="may" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266614.001" break_level="SPACE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
+  <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="disorders" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="which" break_level="SPACE_BREAK"/>
+  <word text="treatment" break_level="SPACE_BREAK"/>
+  <word text="might" break_level="LINE_BREAK"/>
+  <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
+  <word text="beneficial" break_level="SPACE_BREAK"/>
+  <word text="(" break_level="SPACE_BREAK"/>
+  <word text="e.g." break_level="NO_BREAK"/>
+  <word text="immunosuppressants" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="autoimmune" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="LINE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="interferon" break_level="SPACE_BREAK"/>
+  <word text="-" break_level="NO_BREAK"/>
+  <word text="alpha" lemma="alpha" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1221159.001" break_level="NO_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="viral" lemma="viral" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304354.001" break_level="SPACE_BREAK"/>
+  <word text="hepatitis" break_level="SPACE_BREAK"/>
+  <word text="," break_level="NO_BREAK"/>
+  <word text="ursodeoxycolic" break_level="LINE_BREAK"/>
+  <word text="acid" break_level="SPACE_BREAK"/>
+  <word text="for" break_level="SPACE_BREAK"/>
+  <word text="primary" lemma="primary" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280681.005" break_level="SPACE_BREAK"/>
+  <word text="biliary" break_level="SPACE_BREAK"/>
+  <word text="cirrhosis" break_level="SPACE_BREAK"/>
+  <word text=")" break_level="NO_BREAK"/>
+  <word text="warrant" break_level="SPACE_BREAK"/>
+  <word text="a" break_level="LINE_BREAK"/>
+  <word text="diligent" break_level="SPACE_BREAK"/>
+  <word text="search" break_level="SPACE_BREAK"/>
+  <word text="in" break_level="SPACE_BREAK"/>
+  <word text="all" break_level="SPACE_BREAK"/>
+  <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.004" break_level="SPACE_BREAK"/>
+  <word text="of" break_level="SPACE_BREAK"/>
+  <word text="1" break_level="SPACE_BREAK"/>
+  <word text="°" break_level="NO_BREAK"/>
+  <word text="SS" break_level="NO_BREAK"/>
+  <word text="with" break_level="SPACE_BREAK"/>
+  <word text="abnormal" break_level="SPACE_BREAK"/>
+  <word text="liver" lemma="liver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263914.001" break_level="SPACE_BREAK"/>
+  <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Competing" break_level="SENTENCE_BREAK"/>
+  <word text="interests" break_level="SPACE_BREAK"/>
+  <word text="None" break_level="LINE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+  <word text="Authors" break_level="SENTENCE_BREAK"/>
+  <word text="&#39;" break_level="NO_BREAK"/>
+  <word text="contributions" break_level="SPACE_BREAK"/>
+  <word text="Both" break_level="LINE_BREAK"/>
+  <word text="authors" break_level="SPACE_BREAK"/>
+  <word text="contributed" break_level="SPACE_BREAK"/>
+  <word text="equally" break_level="SPACE_BREAK"/>
+  <word text="to" break_level="SPACE_BREAK"/>
+  <word text="the" break_level="SPACE_BREAK"/>
+  <word text="paper" lemma="paper" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275395.012" break_level="SPACE_BREAK"/>
+  <word text="." break_level="NO_BREAK"/>
+</SimpleWsdDoc>
